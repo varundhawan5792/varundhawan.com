@@ -2,6 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Varun Dhawan — Product Designer, Developer, and a Japanophile</title>
 <meta name="description" content="Varun Dhawan. Product Designer, Developer, and a Japanophile.">
 <meta name="keywords" content="varun, varun dhawan, dhawan, personal blog, designer, product designer, varundhawan.com, varun.im">
@@ -27,6 +28,17 @@ a {
 }
 .hide {
   display: none;
+}
+.show-on-small {
+  display: none;
+}
+@media only screen and (max-width: 500px) {
+    .hide-on-small {
+      display: none;
+    }
+    .show-on-small {
+      display: inline-block;
+    }
 }
 .site-title {
   max-width: 600px;
@@ -105,7 +117,7 @@ a {
     <div class="section text-center">
       <div class="section-title">Things I've worked on</div>
       <div class="section-content">
-        User Experience / Crafting Pixels / Branding / Print<br/>
+        User Experience / Crafting Pixels / Branding / Print<br class="hide-on-small"/><span class="show-on-small">&nbsp;/</span>
         JS / Python / Applications
       </div>
     </div>
