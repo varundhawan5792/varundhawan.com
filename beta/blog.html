@@ -1,0 +1,17 @@
+---
+layout: default
+title: Varun Dhawan — Thoughts
+---
+
+  <div class="page-banner">
+    <h2><span>Thoughts</span></h2>
+  </div>
+  {% for post in site.posts %}
+  <div class="section">
+      <div class="section-content">
+          <p><a class="subtle" href="{{ post.url }}">{{ post.title }}</a></p>
+          <p>{{ post.excerpt }}</p>
+      </div>
+  </div>
+  {% endfor %}
+  

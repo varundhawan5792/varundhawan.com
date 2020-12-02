@@ -1,0 +1,145 @@
+body {
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #001530;
+    padding: 0 16px;
+}
+
+a {
+    text-decoration: none;
+    color: #0055FF;
+}
+a.subtle {
+    text-decoration: none;
+    color: #1f3d7a;
+}
+
+::-moz-selection {
+    color: #FFFFFF;
+    background: #0055FF;
+}
+
+::selection {
+    color: #FFFFFF;
+    background: #0055FF;
+}
+
+.site-title {
+    font-size: 14px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.hide {
+    display: none;
+}
+
+.show-on-small {
+    display: none;
+}
+
+@media only screen and (max-width: 500px) {
+    .hide-on-small {
+        display: none;
+    }
+
+    .show-on-small {
+        display: inline-block;
+    }
+}
+
+.content {
+    max-width: 656px;
+    margin: 16px auto;
+}
+
+.page-banner h2 {
+    margin: 96px 0 36px -2px;
+    font-size: 40px;
+    font-weight: 500;
+    font-family: "Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
+}
+
+.page-banner h2 span {
+    font-weight: 500;
+}
+
+@media only screen and (min-width: 1024px) {
+    .page-banner h2 {
+        font-size: 48px;
+    }
+}
+
+.section {
+    max-width: 656px;
+    margin: 32px 0 64px;
+}
+
+.section-title {
+    margin: 12px auto;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0.9px;
+    text-transform: uppercase;
+    color: #7F8A97;
+}
+
+.section-content {
+    font-size: 20px;
+    line-height: 1.6;
+    margin: auto;
+}
+
+.footnote {
+    margin-top: 40px;
+    border-top: 1px solid #F2F3F4;
+    font-size: 16px;
+    font-weight: 300;
+    color: #7F8A97;
+}
+
+.social-icon {
+    display: inline-block;
+    margin: 12px auto;
+    width: 24px;
+    height: 24px;
+}
+
+.social-icon+.social-icon {
+    margin-left: 20px;
+}
+
+.social-icon a {
+    display: block;
+}
+
+.social-icon svg path {
+    fill: #666;
+}
+
+.social-icon.instagram:hover svg path {
+    fill: #E4405F;
+}
+
+.social-icon.facebook:hover svg path {
+    fill: #3B5998;
+}
+
+.social-icon.twitter:hover svg path {
+    fill: #1DA1F2;
+}
+
+.social-icon.linkedin:hover svg path {
+    fill: #0077B5;
+}
+
+.social-icon.behance:hover svg path {
+    fill: #1769FF;
+}
+
+.social-icon.dribbble:hover svg path {
+    fill: #EA4C89;
+}
