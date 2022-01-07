@@ -1,0 +1,81 @@
+a {
+    text-decoration: none;
+    color: #0055FF;
+
+    &.subtle {
+        text-decoration: none;
+        color: #1f3d7a;
+    }
+
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+hr {
+    border: 1px solid #ededed;
+    margin: 20px 0;
+}
+
+::-moz-selection {
+    color: #FFFFFF;
+    background: #0055FF;
+}
+
+::selection {
+    color: #FFFFFF;
+    background: #0055FF;
+}
+
+.social-icon {
+    display: inline-block;
+    margin: 12px auto;
+    width: 24px;
+    height: 24px;
+}
+
+.social-icon+.social-icon {
+    margin-left: 20px;
+}
+
+.social-icon a {
+    display: block;
+}
+
+.social-icon svg path {
+    fill: #666;
+}
+
+.social-icon.instagram:hover svg path {
+    fill: #E4405F;
+}
+
+.social-icon.facebook:hover svg path {
+    fill: #3B5998;
+}
+
+.social-icon.twitter:hover svg path {
+    fill: #1DA1F2;
+}
+
+.social-icon.linkedin:hover svg path {
+    fill: #0077B5;
+}
+
+.social-icon.behance:hover svg path {
+    fill: #1769FF;
+}
+
+.social-icon.dribbble:hover svg path {
+    fill: #EA4C89;
+}
+
+.page-banner h2 {
+    font-size: 40px;
+    font-weight: 500;
+    font-family: "Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
+}
+
+.page-link.active{
+    color: #0055FF;
+}

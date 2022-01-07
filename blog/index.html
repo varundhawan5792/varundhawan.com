@@ -1,0 +1,39 @@
+---
+layout: default
+title: Blogs
+permalink: /blog/
+order: 3
+published: false
+---
+
+  <div class="page-banner">
+    <h2>Thoughts</h2>
+  </div>
+  Still debating on what to put out here; blogs, ideas, notes, or something else entirely. <br/> 
+  Until then, peace out.
+  
+  <div class="home hide">
+  
+    {%- if site.posts.size > 0 -%}
+      
+      <ul class="post-list">
+        {%- for post in site.posts -%}
+        <li>
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+          {%- endif -%}
+        </li>
+        {%- endfor -%}
+      </ul>
+  
+      <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
+    {%- endif -%}
+  
+  </div>
