@@ -1,0 +1,21 @@
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{page.title}}</title>
+  <meta name="description" content="Varun Dhawan | I make ">
+  <meta name="keywords"
+      content="varun, varun dhawan, dhawan, personal blog, designer, product designer, varundhawan.com">
+  <meta name="author" content="Varun Dhawan">
+  <meta name="email" content="me@varundhawan.com">
+  <meta name="Charset" content="UTF-8">
+  <meta name="Distribution" content="Global">
+  <meta name="Rating" content="General">
+  <link href="/assets/favicons/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+</head>
