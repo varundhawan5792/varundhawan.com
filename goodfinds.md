@@ -13,6 +13,7 @@ Inspired by the concept of building a second brain (or a digital garden), I deci
 ### Jan 2022
 - [Taking atomic and reusable notes](https://maggieappleton.com/evergreens)
 - [Digital gardening](https://maggieappleton.com/nontechnical-gardening)
+- [Fuck-you money](https://thedeepdish.org/fuck-you-money/)
 
 ----
 ## 2021
