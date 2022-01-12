@@ -1,9 +1,3 @@
----
-layout: default
-title: Gallery
-permalink: /gallery
-order: 2
----
 <div class="page-banner">
     <h2>Gallery</h2>
     Shot on Pixel 4XL and edited on Snapseed or Lightroom.
