@@ -165,6 +165,9 @@ hr {
 .insta-gallery {
     margin: 0 -81px;
     width: 962px;
+    min-height: 800px;
+    opacity: 0;
+    transition: opacity ease-in-out 0.2s;
 
     @include media-query($on-palm) {
         width: 100%;

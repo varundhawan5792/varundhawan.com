@@ -1,0 +1,40 @@
+---
+layout: default
+title: Gallery
+permalink: /gallery
+order: 2
+---
+
+<div class="page-banner">
+    <h2>Gallery</h2>
+    Shot on Pixel 4XL and edited on Snapseed or Lightroom.
+</div>
+<br/>
+
+{% raw %}
+<div id="instafeed" class="insta-gallery"></div>
+<script type="text/javascript" src="assets/js/instafeed.min.js"></script>
+<script type="text/javascript">
+    var feed = new Instafeed({
+      accessToken: 'IGQVJYaDhnUlE1U2EzejRINURlc2dSWWVkOGo0cW9POU12ak1NZAjlNYUc2S19IM01wMmpQVFY0eDd3NGl1cGl1aldubEhEbHlzMThoZAnNSdnlENm5aU0FYTEhHN2hGMzB4NEF1dl9Dd0xQeTBpTDdiUQZDZD',
+      template: '<div class="photo">' +
+            '<div class="cover"><img src="{{image}}" /></div>' +
+            '<div class="meta"><div class="caption">{{caption}}</div></div>' +
+            '<a class="link" href="{{link}}" id="IG-{{id}}"></a>' +
+        '</div>',
+      limit: 15,
+      transform: function(data){
+        return data;
+      },
+      after: function(){
+        document.getElementById("instafeed").style.opacity=1;
+      }
+    });
+    feed.run();
+</script>
+{% endraw %}
+
+<br/>
+<div class="text-center">
+  <a href="https://www.instagram.com/__varundhawan">All pictures on Instagram</a>
+</div>
