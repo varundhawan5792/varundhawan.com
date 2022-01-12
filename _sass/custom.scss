@@ -105,7 +105,7 @@ hr {
 
         &:hover {
             box-shadow: 0 8px 40px rgba(0,0,0,0.16);
-            transform: scale(1.05);
+            transform: scale(1.02);
         }
     }
     .book .meta {
@@ -144,5 +144,101 @@ hr {
             min-width: 100%;
             min-height: 100%
         }
+    }
+}
+
+.footer-credits {
+    text-align: right; 
+    float: right; 
+    line-height: 48px;
+}
+@include media-query($on-palm) {
+    .footer-col {
+        text-align: center;
+    }
+    .footer-credits {
+        text-align: center;
+    }
+    
+}
+
+.insta-gallery {
+    margin: 0 -81px;
+    width: 962px;
+
+    @include media-query($on-palm) {
+        width: 100%;
+        margin: auto;
+        text-align: center;
+    }
+
+    .photo {
+        width: 293px;
+        height: 293px;
+        display: inline-block;
+        margin: 14px 12px 14px;
+        position: relative;
+        vertical-align: top;
+        transition: transform ease-in-out 0.2s;
+
+        &:hover {
+            box-shadow: 0 8px 32px rgba(0,0,0,0.12);
+            transform: scale(1.01);
+        }
+
+        @include media-query($on-palm) {
+            width: 41vw;
+            height: calc(41vw);
+            margin: 14px 9px 14px;
+        }
+    }
+    .photo .cover {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        overflow: hidden;
+
+        img {
+            flex-shrink: 0;
+            min-height: 100%;
+            object-fit: cover;
+        }
+    }
+    .photo .meta {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        padding: 12px 16px;
+        padding-top: 50px;
+        background: linear-gradient(0deg, rgba(2,0,36,0.9) 0%, rgba(2,0,36,0) 100%);
+        color: #FFFFFF;
+        opacity: 0;
+        transition: opacity ease-in-out 0.2s;
+
+        @include media-query($on-palm) {
+            top: 0;
+        }
+
+        .caption {
+            display: block;
+            font-size: 14px;
+            font-weight: 400;
+        }
+        .likes {
+            font-size: 12px;
+            opacity: 0.6;
+        }
+    }
+    .photo:hover .meta {
+        opacity: 1;
+    }
+    .photo .link {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
     }
 }

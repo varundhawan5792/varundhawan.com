@@ -34,8 +34,8 @@ order: 3
 ## Books that had an impact  
 
 ### Design
-- [Design is a job, Mike Monteiro](https://www.goodreads.com/book/show/13574985-design-is-a-job)
-- [Steal like an artist, Austin Kleon](https://www.goodreads.com/book/show/13099738-steal-like-an-artist)
+- [Design is a Job, Mike Monteiro](https://www.goodreads.com/book/show/13574985-design-is-a-job)
+- [Steal like an Artist, Austin Kleon](https://www.goodreads.com/book/show/13099738-steal-like-an-artist)
 - [Design for Hackers](https://www.goodreads.com/book/show/11457105-design-for-hackers)
 - [Microinteractions: Designing with Details](https://www.goodreads.com/book/show/17239285-microinteractions)
 - [Making It Right: Product Management For A Startup World](https://www.goodreads.com/book/show/22811444-making-it-right)
