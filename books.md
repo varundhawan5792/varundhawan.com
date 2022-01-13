@@ -3,6 +3,7 @@ layout: default
 title: Bookshelf
 permalink: /bookshelf
 order: 3
+showbacklinks: true
 ---
 
 <div class="page-banner">
