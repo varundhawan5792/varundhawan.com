@@ -38,7 +38,8 @@ module Jekyll
 
     def initialize(tag, params, token)
       @limit = params.to_i
-      @access_token = ENV['JEKYLLGRAM_TOKEN'] 
+      @access_token = 'IGQVJYaDhnUlE1U2EzejRINURlc2dSWWVkOGo0cW9POU12ak1NZAjlNYUc2S19IM01wMmpQVFY0eDd3NGl1cGl1aldubEhEbHlzMThoZAnNSdnlENm5aU0FYTEhHN2hGMzB4NEF1dl9Dd0xQeTBpTDdiUQZDZD'
+      #ENV['JEKYLLGRAM_TOKEN'] 
       @api_url = 'https://graph.instagram.com/me'
       @logger = Logger.new(STDOUT)
       @logger_label = "JEKYLL INSTAGRAM PLUGIN"

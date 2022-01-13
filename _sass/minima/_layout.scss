@@ -8,26 +8,35 @@
 
   // Positioning context for the mobile navigation icon
   position: relative;
+  // border-bottom: 1px solid #eee; 
+  z-index: 100;
+
+  .wrapper {
+    padding: 16px;
+    vertical-align: top;
+  }
 }
 
 .site-title {
   @include relative-font-size(1.5);
   font-family: "Work Sans", $base-font-family;
-  font-weight: 300;
-  line-height: $base-line-height * $base-font-size * 2.25;
-  letter-spacing: -1px;
+  font-weight: 400;
+  // line-height: $base-line-height * $base-font-size * 2.25;
+  line-height: 38px; //size of lav button
+  // letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $text-color;
   }
 }
 
 .site-nav {
   float: right;
-  line-height: $base-line-height * $base-font-size * 2.25;
+  // line-height: $base-line-height * $base-font-size * 2.25;
+  line-height: 38px;
 
   .nav-trigger {
       display: none;
@@ -40,6 +49,7 @@
   .page-link {
     color: $text-color;
     line-height: $base-line-height;
+    font-weight: 400;
     
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -49,20 +59,27 @@
 
   @include media-query($on-palm) {
     position: absolute;
-    top: 9px;
     right: $spacing-unit / 2;
-    background-color: $background-color;
-    border: 1px solid $grey-color-light;
-    border-radius: 5px;
     text-align: right;
 
     label[for="nav-trigger"] {
+      background-color: $background-color;
+      border: 1px solid $grey-color-light;
+      border-radius: 5px;
       display: block;
       float: right;
       width: 36px;
       height: 36px;
       z-index: 2;
       cursor: pointer;
+
+      &:hover {
+        background-color: #EDEDED;
+      }
+    }
+
+    input:checked ~ label[for="nav-trigger"] {
+      background-color: #EDEDED;
     }
 
     .menu-icon {
@@ -82,11 +99,18 @@
     input ~ .trigger {
       clear: both;
       display: none;
+      transition: all ease-in-out 0.2s;
     }
 
     input:checked ~ .trigger {
       display: block;
-      padding-bottom: 5px;
+      padding: 10px;
+      margin-top: 44px;
+      background: #FFF;
+      border: 1px solid $grey-color-light;
+      border-radius: 5px;
+      font-size: 20px;
+      box-shadow: 0 8px 24px rgba($color: #000000, $alpha: 0.12);
     }
 
     .page-link {
@@ -219,7 +243,7 @@
 
 .post-title {
   @include relative-font-size(2.625);
-  letter-spacing: -1px;
+  // letter-spacing: -1px;
   line-height: 1;
 
   @include media-query($on-laptop) {

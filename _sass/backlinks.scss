@@ -1,0 +1,22 @@
+.backlink-wrapper {
+    background: #F7F7F7;
+    border-radius: 8px;
+    border: 1px solid $grey-color-light;
+    padding: 8px 16px;
+    margin: 40px auto 10px;
+
+    &:before {
+        content: "Links to this page";
+        font-size: 11px;
+        text-transform: uppercase;       
+    }
+
+    ul {
+        margin: 0;
+        list-style: none;
+
+        li a {
+            
+        }
+    }
+}

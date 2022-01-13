@@ -1,19 +1,22 @@
 ---
 layout: default
-title: Links
-permalink: /links
+title: Reads
+permalink: /reads
 order: 3
 ---
 <div class="page-banner">
     <h2>Reading log</h2>
 </div>
-Inspired by the concept of building a second brain (or a digital garden), I decided to start documenting ideas I like so that I can easily find them later.
+Inspired by the concept of building a second brain (or a digital garden), I decided to start documenting ideas I like so that I can easily find them later.  
+
+Checkout the [books](/bookshelf) I've been reading.
 <br/><br/>
 
 ### Jan 2022
 - [Taking atomic and reusable notes](https://maggieappleton.com/evergreens)
 - [Digital gardening](https://maggieappleton.com/nontechnical-gardening)
 - [Fuck-you money](https://thedeepdish.org/fuck-you-money/)
+- [SOLID principles in software design](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
 
 ----
 ## 2021

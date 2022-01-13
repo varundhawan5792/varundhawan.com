@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Books
-permalink: /books
+title: Bookshelf
+permalink: /bookshelf
 order: 3
 ---
 

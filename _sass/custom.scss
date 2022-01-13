@@ -93,7 +93,7 @@ hr {
         height: 346px;
         display: inline-block;
         margin: 0 12px 20px;
-        box-shadow: 0 4px 24px rgba(0,0,0,0.16);
+        box-shadow: 0 8px 24px rgba(0,0,0,0.16);
         position: relative;
         vertical-align: top;
         transition: all ease-in-out 0.2s;
@@ -104,8 +104,8 @@ hr {
         }
 
         &:hover {
-            box-shadow: 0 8px 40px rgba(0,0,0,0.16);
-            transform: scale(1.02);
+            box-shadow: 0 16px 40px rgba(0,0,0,0.16);
+            transform: scale(1.01);
         }
     }
     .book .meta {
@@ -163,11 +163,9 @@ hr {
 }
 
 .insta-gallery {
-    margin: 0 -81px;
+    margin: 0 -105px;
     width: 962px;
     min-height: 800px;
-    opacity: 0;
-    transition: opacity ease-in-out 0.2s;
 
     @include media-query($on-palm) {
         width: 100%;
@@ -182,7 +180,8 @@ hr {
         margin: 14px 12px 14px;
         position: relative;
         vertical-align: top;
-        transition: transform ease-in-out 0.2s;
+        opacity: 0;
+        transition: opacity ease-in-out 0.25s, transform ease-in-out 0.2s;
 
         &:hover {
             box-shadow: 0 8px 32px rgba(0,0,0,0.12);
