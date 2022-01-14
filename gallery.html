@@ -4,41 +4,56 @@ title: Gallery
 permalink: /gallery
 order: 2
 ---
-
 <div class="page-banner">
     <h2>Gallery</h2>
-    Shot on Pixel 4XL. Edited on Snapseed / Lightroom.
+    Shot on Pixel 4XL and edited on Snapseed or Lightroom.
 </div>
 <br/>
 
-{% raw %}
-<div id="instafeed" class="insta-gallery"></div>
-<script type="text/javascript" src="assets/js/instafeed.min.js"></script>
+<div id="instafeed" class="insta-gallery">
+{% jekyllgram 15 %}
+  <div class="photo">
+    <div class="cover">
+        {%- if photo.media_type == "IMAGE" or photo.media_type == "CAROUSEL_ALBUM" -%}
+        <img src="{{ photo.media_url }}" id="IG-img-{{ photo.id }}" />
+        {%- else-%}
+        <img src="{{ photo.thumbnail_url }}" id="IG-img-{{ photo.id }}" />
+        {%- endif -%}
+    </div>
+    <div class="meta">
+        <div class="caption">{{ photo.caption }}</div>
+        <div class="likes">{{ photo.likes }}</div>
+    </div>
+    <a class="link" href="{{ photo.permalink }}" id="IG-{{ photo.id }}"></a>
+  </div>
+  
+{% endjekyllgram %}
+</div>
 <script type="text/javascript">
-    var feed = new Instafeed({
-      accessToken: 'IGQVJYaDhnUlE1U2EzejRINURlc2dSWWVkOGo0cW9POU12ak1NZAjlNYUc2S19IM01wMmpQVFY0eDd3NGl1cGl1aldubEhEbHlzMThoZAnNSdnlENm5aU0FYTEhHN2hGMzB4NEF1dl9Dd0xQeTBpTDdiUQZDZD',
-      template: '<div class="photo">' +
-            '<div class="cover"><img src="{{image}}" /></div>' +
-            '<div class="meta"><div class="caption">{{caption}}</div></div>' +
-            '<a class="link" href="{{link}}" id="IG-{{id}}"></a>' +
-        '</div>',
-      limit: 15,
-      transform: function(data){
-        return data;
-      },
-      after: function(){
-        document.getElementById("instafeed").childNodes.forEach(function(o, i){
-          setTimeout(function(){
-            o.childNodes[0].style.opacity = 1; 
-          }, i*50)
-        })
-      }
-    });
-    feed.run();
+    // document.getElementById("instafeed").childNodes.forEach(function(o, i){
+    //     setTimeout(function(){
+    //     o.style.opacity = 1; 
+    //     }, (i+1)*45)
+    // })
+    Array.from(document.getElementsByClassName("cover")).forEach(function(o, i){
+        var imgEle = o.childNodes[0];
+        var imgSrc = imgEle.src;
+        var imgID = imgEle.id;
+        imgEle.src="";
+        var img = new Image();
+        img.onload = function(){
+            // this gets run once the image has finished downloading
+            document.getElementById(imgID).src = imgSrc;
+            imgEle.parentNode.style.transitionDelay = String(i*0.1) + 's';
+            imgEle.parentNode.style.opacity = 1;
+        }
+        img.src = imgSrc; // this causes the image to get downloaded in the background
+        // img.parentNode.style.opacity=1;
+        // // console.log(img);
+        // img.onload = function(i){
+        //     console.log("Image loaded")
+        //     console.log(i.target)
+        //     i.target.parentNode.style.opacity = 1;
+        // }
+    })
 </script>
-{% endraw %}
-
-<br/>
-<div class="text-center">
-  <a href="https://www.instagram.com/__varundhawan">All pictures on Instagram</a>
-</div>

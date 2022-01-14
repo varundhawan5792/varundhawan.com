@@ -175,15 +175,15 @@ hr {
     
     @keyframes shimmer {
         0% {
-            background: #fcfcfc;
+            background: #ededed;
         }
         
         50% {
-            background: #ededed;
+            background: #fcfcfc;
         }
 
         100% {
-            background: #fcfcfc;
+            background: #ededed;
         }
     }
 
@@ -194,8 +194,8 @@ hr {
         margin: 14px 12px 14px;
         position: relative;
         vertical-align: top;
-        transition: opacity ease-in-out 0.25s, transform ease-in-out 0.2s;
-        background: #fcfcfc;
+        transition: opacity 0.25s ease-in-out, transform 0.25s ease-in-out;
+        background: #ededed;
         animation-name: shimmer;
         animation-delay: 0;
         animation-duration: 4s;
@@ -222,7 +222,7 @@ hr {
         height: 100%;
         overflow: hidden;
         opacity: 0;
-        transition: opacity ease-in-out 0.25s;
+        transition: opacity 0.5s ease-in-out;
 
         img {
             flex-shrink: 0;
@@ -240,7 +240,7 @@ hr {
         background: linear-gradient(0deg, rgba(2,0,36,0.9) 0%, rgba(2,0,36,0) 100%);
         color: #FFFFFF;
         opacity: 0;
-        transition: opacity ease-in-out 0.2s;
+        transition: opacity 0.25s ease-in-out;
 
         @include media-query($on-palm) {
             top: 0;
