@@ -29,7 +29,7 @@ order: 2
       after: function(){
         document.getElementById("instafeed").childNodes.forEach(function(o, i){
           setTimeout(function(){
-            o.style.opacity = 1; 
+            o.childNodes[0].style.opacity = 1; 
           }, i*50)
         })
       }

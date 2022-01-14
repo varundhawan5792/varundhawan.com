@@ -172,6 +172,20 @@ hr {
         margin: auto;
         text-align: center;
     }
+    
+    @keyframes shimmer {
+        0% {
+            background: #fcfcfc;
+        }
+        
+        50% {
+            background: #ededed;
+        }
+
+        100% {
+            background: #fcfcfc;
+        }
+    }
 
     .photo {
         width: 293px;
@@ -180,8 +194,15 @@ hr {
         margin: 14px 12px 14px;
         position: relative;
         vertical-align: top;
-        opacity: 0;
         transition: opacity ease-in-out 0.25s, transform ease-in-out 0.2s;
+        background: #fcfcfc;
+        animation-name: shimmer;
+        animation-delay: 0;
+        animation-duration: 4s;
+        animation-iteration-count: infinite;
+        animation-direction: forward;
+        animation-fill-mode: forwards;
+        animation-timing-function: ease-in-out;
 
         &:hover {
             box-shadow: 0 8px 32px rgba(0,0,0,0.12);
@@ -200,6 +221,8 @@ hr {
         align-items: center;
         height: 100%;
         overflow: hidden;
+        opacity: 0;
+        transition: opacity ease-in-out 0.25s;
 
         img {
             flex-shrink: 0;
