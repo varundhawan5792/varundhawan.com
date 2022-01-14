@@ -1,14 +1,7 @@
 a {
-    text-decoration: none;
-    color: #0055FF;
-
     &.subtle {
         text-decoration: none;
         color: #1f3d7a;
-    }
-
-    &:hover {
-        text-decoration: none;
     }
 }
 
@@ -146,17 +139,14 @@ hr {
         }
     }
 }
-
+.footer-social{
+    margin-bottom: 10px;
+}
 .footer-credits {
-    text-align: right; 
-    float: right; 
-    line-height: 48px;
+    color: #7F8A97;
 }
 @include media-query($on-palm) {
-    .footer-col {
-        text-align: center;
-    }
-    .footer-credits {
+    .footer-credits, .footer-social {
         text-align: center;
     }
     

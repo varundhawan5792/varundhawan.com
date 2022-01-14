@@ -2,17 +2,15 @@
 layout: default
 title: Blogs
 permalink: /blog/
-order: 3
+order: 5
 published: false
 ---
 
   <div class="page-banner">
-    <h2>Thoughts</h2>
+    <h1>Thoughts</h1>
   </div>
-  Still debating on what to put out here; blogs, ideas, notes, or something else entirely. <br/> 
-  Until then, peace out.
   
-  <div class="home hide">
+  <div class="home">
   
     {%- if site.posts.size > 0 -%}
       
@@ -27,7 +25,7 @@ published: false
             </a>
           </h3>
           {%- if site.show_excerpts -%}
-            {{ post.excerpt }}
+            {{ post.excerpt | strip_html | truncatewords: 30}}
           {%- endif -%}
         </li>
         {%- endfor -%}

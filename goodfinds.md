@@ -2,10 +2,11 @@
 layout: default
 title: Reads
 permalink: /reads
-order: 3
+order: 4
 ---
+
 <div class="page-banner">
-    <h2>Reading log</h2>
+    <h1>Reading log</h1>
 </div>
 Inspired by the concept of building a second brain (or a digital garden), I decided to start documenting ideas I like so that I can easily find them later.  
 

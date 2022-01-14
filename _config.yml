@@ -18,19 +18,44 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Varun Dhawan
-email: varundhawan5792@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Engineer by education, Designer by choice. Passionate about systems, technology, sushi, and types. Head of Design at Innovaccer.
+name:   Varun Dhawan
+title:  Varun Dhawan
+author: Varun Dhawan
+email:  varundhawan5792@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: __varundhawan
 github_username:  varundhawan5792
 
+# If you are using a host that cannot resolve URLs that do
+# not end with .html (such as Neocities), set this to 'true'.
+use_html_extension:  false
+
+# Set to `true` to open non-internal links in new tabs, or
+# set to `false` to open non-internal links in current tab.
+open_external_links_in_new_tab: true
+
+permalink:           pretty
+relative_permalinks: false
+page_excerpts: true
+show_excerpts: true
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-last-modified-at
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+collections:
+  notes:
+    output: true
+    permalink: /notes/:path
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -51,3 +76,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+include: ['_pages']
+exclude: ['_includes/notes_graph.json']

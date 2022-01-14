@@ -1,3 +1,12 @@
+GIT
+  remote: https://github.com/maximevaillancourt/jekyll-last-modified-at
+  revision: e0c918691db625401ef5850a030da59d0124d356
+  branch: add-support-for-files-in-git-submodules
+  specs:
+    jekyll-last-modified-at (1.3.0)
+      jekyll (>= 3.7, < 5.0)
+      posix-spawn (~> 0.3.9)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -11,8 +20,6 @@ GEM
     eventmachine (1.2.7)
     ffi (1.15.4)
     forwardable-extended (2.6.0)
-    htmlbeautifier (1.4.1)
-    htmlcompressor (0.4.0)
     http_parser.rb (0.8.0)
     i18n (1.8.11)
       concurrent-ruby (~> 1.0)
@@ -37,10 +44,6 @@ GEM
       sassc (> 2.0.1, < 3.0)
     jekyll-seo-tag (2.7.1)
       jekyll (>= 3.8, < 5.0)
-    jekyll-tidy (0.2.2)
-      htmlbeautifier
-      htmlcompressor
-      jekyll
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.3.1)
@@ -52,13 +55,19 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
+    mini_portile2 (2.7.1)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
+    nokogiri (1.13.1)
+      mini_portile2 (~> 2.7.0)
+      racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
+    posix-spawn (0.3.15)
     public_suffix (4.0.6)
+    racc (1.6.0)
     rb-fsevent (0.11.0)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -70,6 +79,7 @@ GEM
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.8.0)
+    webrick (1.7.0)
 
 PLATFORMS
   ruby
@@ -77,11 +87,13 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.1.1)
   jekyll-feed (~> 0.12)
-  jekyll-tidy
+  jekyll-last-modified-at!
   minima (~> 2.5)
+  nokogiri
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
+  webrick (~> 1.7)
 
 BUNDLED WITH
    2.3.4

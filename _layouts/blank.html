@@ -27,11 +27,13 @@
     
         <main class="page-content" aria-label="Content">
             <div class="wrapper">
+              <content>
                 {{ content }}
+              </content>
             </div>
         </main>
         
         {%- include footer.html -%}
-
+        {% include link-previews.html wrapperQuerySelector="content" %}
     </body>
 </html>

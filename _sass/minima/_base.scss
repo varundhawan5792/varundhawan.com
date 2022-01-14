@@ -104,16 +104,25 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $brand-color;
+  transition: background 300ms;
+  padding: 0 0.1em;
   text-decoration: none;
-
-  &:visited {
-    color: darken($brand-color, 5%);
-  }
+  color: $brand-color;
 
   &:hover {
-    color: $text-color;
-    text-decoration: underline;
+    color: $grey-color !important;
+  }
+  &.external-link:after {
+    position: relative;
+    top: -0.5em;
+    font-size: 0.7em;
+    content: "↗";
+    color: #aaaaaa;
+  }
+  &.internal-link:after,
+  &.footnote:after,
+  &.reversefootnote:after {
+    content: "";
   }
 
   .social-media-list &:hover {

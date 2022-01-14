@@ -7,7 +7,7 @@ showbacklinks: true
 ---
 
 <div class="page-banner">
-    <h2>Books</h2>
+    <h1>Books</h1>
 </div>
 
 ### Currently reading
