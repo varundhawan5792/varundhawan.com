@@ -2,12 +2,12 @@
 layout: default
 title: Blogs
 permalink: /blog/
-order: 5
-published: false
+order: 4
+excerpt: Blogs
 ---
 
   <div class="page-banner">
-    <h1>Thoughts</h1>
+    <h1>Posts</h1>
   </div>
   
   <div class="home">

@@ -231,7 +231,10 @@
   display: block;
   @include relative-font-size(1.5);
 }
-
+.center-image {
+  margin: 0 auto;
+  display: block;
+}
 
 
 /**
@@ -242,18 +245,21 @@
 }
 
 .post-title {
-  @include relative-font-size(2.625);
+  @include relative-font-size(1.6);
   // letter-spacing: -1px;
   line-height: 1;
+  margin-bottom: 10px;
 
   @include media-query($on-laptop) {
-    @include relative-font-size(2.25);
+    @include relative-font-size(2.0);
   }
 }
 
 .post-content {
   margin-bottom: $spacing-unit;
-
+  *:not(h1, h2, h3, h4, pre, code){
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  }
   h2 {
     @include relative-font-size(2);
 

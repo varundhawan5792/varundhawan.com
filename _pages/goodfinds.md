@@ -2,7 +2,8 @@
 layout: default
 title: Reads
 permalink: /reads
-order: 4
+order: 5
+excerpt: A collection of ideas I find interesting
 ---
 
 <div class="page-banner">
