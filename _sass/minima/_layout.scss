@@ -60,7 +60,7 @@
   @include media-query($on-palm) {
     position: absolute;
     right: $spacing-unit / 2;
-    text-align: right;
+    text-align: left;
 
     label[for="nav-trigger"] {
       background-color: $background-color;
@@ -120,7 +120,7 @@
       &:not(:last-child) {
         margin-right: 0;
       }
-      margin-left: 20px;
+      padding-right: 20px;
     }
   }
 }

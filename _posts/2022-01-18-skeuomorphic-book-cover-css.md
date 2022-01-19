@@ -4,10 +4,10 @@ title:  "Skeuomorphic book cover in CSS"
 date:   2022-01-18 11:11:00 +0530
 categories: web
 permalink: /blog/:year/:month/:day/:title
-excerpt: I was inspired by the look and feel of books Apple Book. Created the same effect in CSS for the blog. 
+excerpt: I was inspired by the look and feel of books in Apple Books. Created the same effect in CSS for the blog. 
 ---
 
-I was quite inspired by the way Apple Book shows their bookshelf. The books have a physical appearance which greatly enhances the visual appeal. It was clearly being done by adding a layer of styling on top of the book cover because the ebook I imported did not contain the physical attributes.
+I was quite inspired by the way Apple Books shows their bookshelf. They turn every book into a hardbound which greatly enhances the visual appeal. It was clearly being done by adding a layer of styling on top of the book cover because the ebook I imported did not contain the physical attributes.
 
 ![Apple Books](/assets/blog/images/apple-books.png)
 
@@ -21,7 +21,7 @@ I started with a simple CSS linear gradient:
                     #FFF 100%);
 ```
 
-My goal was to recreate the emboss effect light would have on the book cover when the source is on the right. The gradient stops had to be very close to each other.
+My goal was to recreate the emboss effect that light would have on a hardbound when the source is on left. The gradient stops had to be very close to each other.
 
 Took me a few iterations, but this is where I was fairly happy:
 
@@ -46,4 +46,4 @@ Took me a few iterations, but this is where I was fairly happy:
 ![Final effect](/assets/blog/images/bookshelf.png){: .center-image }
 
 
-That's all. Check it out on my [Bookshelf](/bookshelf).
+That's all. Check out the effect on my [Bookshelf](/bookshelf).
