@@ -42,8 +42,7 @@ Took me a few iterations, but this is where I was fairly happy:
                     rgba(244,244,244,0.1) 99%,
                     rgba(144,144,144,0.2) 100%);
 ```
-
-![Final effect](/assets/blog/images/bookshelf.png){: .center-image }
+{% jsfiddle wxLdkta1/4 result,html,css iframe default 480px "100%" %}
 
 
 That's all. Check out the effect on my [Bookshelf](/bookshelf).
