@@ -2,9 +2,7 @@
 title: Saved links
 excerpt: A collection of ideas I find interesting
 ---
-
 I save ideas I like so that I can easily find them later.  
-<br/>
 
 ### Jan 2022
 - [Taking atomic and reusable notes](https://maggieappleton.com/evergreens)

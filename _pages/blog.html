@@ -2,7 +2,8 @@
 layout: default
 title: Blogs
 permalink: /blog/
-order: 4
+preview: false
+order: 5
 excerpt: Blogs
 ---
 <div class="post-header">
@@ -22,10 +23,37 @@ excerpt: Blogs
         </a>
       </h2>
       {%- if site.show_excerpts -%}
-        {{ post.excerpt | strip_html | truncatewords: 30}}
+      <div>{{ post.excerpt | strip_html | truncatewords: 30}}</div>
       {%- endif -%}
     </li>
     {%- endfor -%}
+    <li>
+      <span class="post-meta">Jan 15, 2022</span>
+      <h2 class="post-link">
+        <a class="external-link" href="https://varundhawan.medium.com/taking-subjectivity-out-of-design-93da69f9a56f">
+          Taking subjectivity out of design
+        </a>
+      </h2>
+      <div>5 years into healthcare, I find more similarities between practicing medicine and design than I thought. The biggest one — both are about diagnosing and treating problems.</div>
+    </li>
+    <li>
+      <span class="post-meta">Nov 22, 2021</span>
+      <h2 class="post-link">
+        <a class="external-link" href="https://medium.com/innovaccer-design/what-should-junior-designers-look-for-in-a-company-a4f0716cedc7">
+          What should junior designers look for in a company?
+        </a>
+      </h2>
+      <div>Find a team that’s motivated and stands up for a well-designed experience; and a mission that’s big and challenging.</div>
+    </li>
+    <li>
+      <span class="post-meta">Jul 19, 2020</span>
+      <h2 class="post-link">
+        <a class="external-link" href="https://uxdesign.cc/design-sprint-is-first-principle-thinking-99dca6732820">
+          Design Sprint is "first-principles thinking"
+        </a>
+      </h2>
+      <div>First-principles thinking is one of the best ways to reverse-engineer complicated problems and unleash creative possibility.</div>
+    </li>
   </ul>
 
   <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->

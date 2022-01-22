@@ -47,15 +47,28 @@
   }
 
   .page-link {
+    font-family: $heading-font-family;
     color: $text-color;
     line-height: $base-line-height;
     font-weight: 400;
+    position: relative;
+    transition: color 80ms ease-in-out;
     
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
       margin-right: 20px;
     }
+
+    &:hover {
+      color: darken($brand-color, 10%);
+    }
+    
   }
+
+  .page-link.active{
+    color: #0055FF;
+    position: relative;
+}
 
   @include media-query($on-palm) {
     position: absolute;
@@ -120,7 +133,7 @@
       &:not(:last-child) {
         margin-right: 0;
       }
-      padding-right: 20px;
+      padding-right: 60px;
     }
   }
 }
@@ -201,12 +214,25 @@
  * Page content
  */
 .page-content {
+  // font-family: $content-font-family;
   padding: $spacing-unit*1.5 0;
   flex: 1;
 }
 
 .page-heading {
   @include relative-font-size(2);
+}
+
+
+/**
+ * Posts
+ */
+.post-header {
+  margin-bottom: $spacing-unit;
+
+  time {
+    color: $grey-color;
+  }
 }
 
 .post-list-heading {
@@ -223,38 +249,47 @@
 }
 
 .post-meta {
+  font-family: $base-font-family;
   font-size: $small-font-size;
   color: $grey-color;
 }
 
+.post-breadcrumbs {
+  font-family: $base-font-family;
+  font-size: $small-font-size;
+  color: $grey-color;
+  margin-bottom: 24px;
+  display: inline-block;
+  border: 0;
+
+  &:hover {
+    color: $grey-color-dark;
+    background: none;
+
+    &:before {
+      left: -20px;
+    }
+  }
+}
+
 .post-link {
   display: block;
-  @include relative-font-size(1.25);
+  @include relative-font-size(1.35);
   background: none !important;
   margin-bottom: 8px;
+  letter-spacing: -0.02em;
 }
 .center-image {
   margin: 0 auto;
   display: block;
 }
-
-
-/**
- * Posts
- */
-.post-header {
-  margin-bottom: $spacing-unit;
-
-  time {
-    color: $grey-color;
-  }
-}
-
 .post-title {
   @include relative-font-size(1.6);
   // letter-spacing: -1px;
   line-height: 1;
   margin-bottom: 10px;
+  letter-spacing: -0.01em;
+  font-weight: 500;
 
   @include media-query($on-laptop) {
     @include relative-font-size(2.0);

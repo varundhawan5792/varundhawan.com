@@ -7,10 +7,12 @@
     margin-bottom: 16px;
 
     .note-heading {
+      font-family: $heading-font-family;
       font-weight: 500;
     }
     
     .faded {
+        font-size: $small-font-size;
         color: $grey-color;
     }
 }
@@ -21,14 +23,17 @@
 }
 
 #notes-entry-container {
-    display: grid;
-    grid-gap: 2em;
-    grid-template-areas:
-      "content"
-      "side";
-  
-    @media (min-width: 700px) {
-      grid-template-columns: 3fr 1fr;
-      grid-template-areas: "content side";
-    }
+  display: grid;
+  grid-gap: 2em;
+  grid-template-areas:
+    "content"
+    "side";
+
+  @media (min-width: 700px) {
+    grid-template-columns: 3fr 1fr;
+    grid-template-areas: "content side";
   }
+  content {
+    
+  }
+}

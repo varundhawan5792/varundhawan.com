@@ -121,5 +121,5 @@
     });
   }
 
-  document.querySelectorAll('{{ include.wrapperQuerySelector }} a').forEach(setupListeners);
+  document.querySelectorAll('{{ include.wrapperQuerySelector }} a:not(.no-preview)').forEach(setupListeners);
 </script>

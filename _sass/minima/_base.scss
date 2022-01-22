@@ -37,10 +37,8 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: $spacing-unit / 1.5;
 }
-
-
 
 /**
  * `main` element
@@ -95,7 +93,7 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
   font-family: $heading-font-family;
-  font-weight: $base-font-weight;
+  font-weight: $heading-font-weight;
 }
 
 .subheading {
@@ -110,13 +108,13 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  transition: background 300ms ease-out, border 120ms ease-out;
+  transition: background 240ms ease-out, border 120ms ease-out;
   text-decoration: none;
   color: $brand-color;
 
   &.external-link:after {
     position: relative;
-    top: -0.5em;
+    top: -0.1em;
     font-size: 0.7em;
     content: "↗";
     color: #aaaaaa;
@@ -135,16 +133,6 @@ a {
     }
   }
 }
-/* external links */
-// a[href*="//"]:not([href*="varundhawan.com"]):after,
-// a[href*="//"]:not([href*="localhost"]):after,
-// a.external-link {
-//   position: relative;
-//   top: -0.05em;
-//   padding: 0 2px;
-//   content: "↗";
-//   color: #aaaaaa;
-// }
 a.internal-link {
   // border-color: #8b88e6;
   // background-color: #efefff;
@@ -166,18 +154,24 @@ content a {
  * Blockquotes
  */
 blockquote {
-  color: $grey-color;
-  border-left: 4px solid $grey-color-light;
-  padding-left: $spacing-unit / 2;
+  padding: 1em 1.5em;
+  font-size: 0.88em;
+  background: #F7F7F7;
+  color: lighten($text-color, 8%);
+  border-radius: 4px;
+  margin-bottom: $spacing-unit;
+  line-height: 1.6;
+
   @include relative-font-size(1.125);
-  letter-spacing: -1px;
-  font-style: italic;
+  // letter-spacing: -1px;
 
   > :last-child {
     margin-bottom: 0;
   }
 }
-
+p + blockquote {
+  margin-top: -$spacing-unit / 2;
+}
 
 
 /**
