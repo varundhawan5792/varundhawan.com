@@ -118,12 +118,18 @@ a {
     font-size: 0.7em;
     content: "↗";
     color: #aaaaaa;
+    padding: 0 0 0 0.3em;
+    transition: color 120ms ease-out
   }
   &.internal-link:after,
   &.footnote:after,
   &.reversefootnote:after {
     content: "";
   }
+
+  &.external-link:hover:after {
+    color: lighten($brand-color, 15%);
+  } 
 
   .social-media-list &:hover {
     text-decoration: none;
@@ -133,6 +139,16 @@ a {
     }
   }
 }
+/* external links */
+// a[href*="//"]:not([href*="varundhawan.com"]):after,
+// a[href*="//"]:not([href*="localhost"]):after,
+// a.external-link {
+//   position: relative;
+//   top: -0.05em;
+//   padding: 0 2px;
+//   content: "↗";
+//   color: #aaaaaa;
+// }
 a.internal-link {
   // border-color: #8b88e6;
   // background-color: #efefff;

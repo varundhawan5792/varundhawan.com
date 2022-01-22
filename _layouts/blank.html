@@ -34,6 +34,8 @@
         </main>
         
         {%- include footer.html -%}
+        {% if page.preview != false %}
         {% include link-previews.html wrapperQuerySelector="content" %}
+        {% endif %}
     </body>
 </html>
