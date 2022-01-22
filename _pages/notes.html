@@ -1,0 +1,31 @@
+---
+layout: default
+title: Notes
+permalink: /notes/
+order: 5
+excerpt: Notes
+---
+
+<div class="post-header">
+  <h1 class="post-title">Notes</h1>
+</div>
+
+<div class="notes-list">
+  {% assign notes = site.notes | sort: "title" %}
+  {% for entry in notes %}
+  {% unless entry.path contains "index.md" or entry.path contains "index.html" %}
+  <div class="list-entry">
+    <div>
+      <a class="note-heading internal-link" href="{{ entry.url }}">{{ entry.title }}</a> 
+      <span class="faded">({{ entry.last_modified_at | date: "%b %-d, %Y" }})</span>
+    </div>
+    <div>{{ entry.excerpt | strip_html | truncatewords: 30 }}</div>
+  </div>
+  {% endunless %}
+  {% endfor %}
+</div>
+<!--
+<hr/>
+<h4 class="subheading">All notes, visualized as a graph</h4>
+{% include notes_graph.html %} 
+-->

@@ -1,0 +1,34 @@
+// List of notes
+.notes-list {
+    margin-bottom: $spacing-unit * 2;
+}
+
+.list-entry {
+    margin-bottom: 16px;
+
+    .note-heading {
+      font-weight: 500;
+    }
+    
+    .faded {
+        color: $grey-color;
+    }
+}
+
+// Note
+.notes-entry-heading {
+
+}
+
+#notes-entry-container {
+    display: grid;
+    grid-gap: 2em;
+    grid-template-areas:
+      "content"
+      "side";
+  
+    @media (min-width: 700px) {
+      grid-template-columns: 3fr 1fr;
+      grid-template-areas: "content side";
+    }
+  }

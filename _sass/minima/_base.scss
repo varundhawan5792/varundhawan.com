@@ -94,23 +94,26 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Work Sans", $base-font-family;
+  font-family: $heading-font-family;
   font-weight: $base-font-weight;
 }
 
-
+.subheading {
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.9px;
+  text-transform: uppercase;
+  color: #7F8A97;
+}
 
 /**
  * Links
  */
 a {
-  transition: background 300ms;
+  transition: background 300ms ease-out, border 120ms ease-out;
   text-decoration: none;
   color: $brand-color;
 
-  &:hover {
-    color: $grey-color !important;
-  }
   &.external-link:after {
     position: relative;
     top: -0.5em;
@@ -130,6 +133,31 @@ a {
     .username {
       text-decoration: underline;
     }
+  }
+}
+/* external links */
+// a[href*="//"]:not([href*="varundhawan.com"]):after,
+// a[href*="//"]:not([href*="localhost"]):after,
+// a.external-link {
+//   position: relative;
+//   top: -0.05em;
+//   padding: 0 2px;
+//   content: "↗";
+//   color: #aaaaaa;
+// }
+a.internal-link {
+  // border-color: #8b88e6;
+  // background-color: #efefff;
+}
+content a {
+  text-decoration: none;
+  border-bottom: 2px solid #ddd;
+  color: #000;
+  padding: 1px 0;
+
+  &:hover {
+    border-color: lighten($brand-color, 20%);
+    background-color: lighten($brand-color, 48%);
   }
 }
 

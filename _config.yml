@@ -55,7 +55,11 @@ collections:
     output: true
     permalink: /notes/:path
 
-
+defaults:
+  - scope:
+      path: "_notes/*.md"
+    values:
+      layout: "note"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
