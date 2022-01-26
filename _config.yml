@@ -44,6 +44,7 @@ show_excerpts: true
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
   - jekyll-last-modified-at
 
 sass:
@@ -83,3 +84,6 @@ defaults:
 
 include: ['_pages']
 exclude: ['_includes/notes_graph.json']
+
+jekyll_timeago:
+  depth: 1
