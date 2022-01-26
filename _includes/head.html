@@ -1,7 +1,13 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{page.title}}</title>
+  <title>
+    {% if page.id == "home" %}
+    {{ site.title }}
+    {% else %}
+    {{ page.title }} – {{ site.title }}
+    {% endif %}
+  </title>
   <meta name="description"
     content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}">
   <meta name="keywords"
@@ -51,14 +57,6 @@
   <meta property="og:image" content="{{ site.url }}{{ page.image }}">
   {% endif %}
   {% endif %}
-
-  <title>
-    {% if page.id == "home" %}
-    {{ site.title }}
-    {% else %}
-    {{ page.title }} – {{ site.title }}
-    {% endif %}
-  </title>
 
   <link href="/assets/favicons/favicon.ico" rel="shortcut icon" type="image/x-icon" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
