@@ -4,6 +4,8 @@ title: Bookshelf
 permalink: /bookshelf
 order: 3
 showbacklinks: true
+tags: book recommendations, books, impactful books, books for designers
+excerpt: Recommendation of books I have found helpful
 ---
 <div class="post-header">
     <h1 class="post-title">Books</h1>
