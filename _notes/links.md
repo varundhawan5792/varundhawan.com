@@ -14,6 +14,8 @@ I save ideas I like so that I can easily find them later.
 - [Digital zombies](https://www.youtube.com/watch?v=15nR7nhFRZE)
 - [Being charismatic](https://www.artofmanliness.com/people/social-skills/the-3-elements-of-charisma-presence/)
 - [Spacial web browsers](https://maggieappleton.com/spatial-web)
+- [Early employee manual](https://manual.withcompound.com/)
+- [Negotiation cheatsheet](https://www.yanda.com/negotiation)
 
 ----
 ## 2021

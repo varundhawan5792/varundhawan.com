@@ -19,7 +19,7 @@ preview: false
   <div class="list-entry">
     <div>
       <a class="note-heading internal-link" href="{{ entry.url }}">{{ entry.title }}</a> 
-      <span class="faded" title="{{ entry.last_modified_at | date: "%b %-d, %Y" }}">({{ entry.last_modified_at | date: "%b %-d, %Y" | timeago }})</span>
+      <span class="faded">({{ entry.last_modified_at | date: "%b %-d, %Y" }})</span>
     </div>
     <div>{{ entry.excerpt | strip_html | truncatewords: 30 }}</div>
   </div>
