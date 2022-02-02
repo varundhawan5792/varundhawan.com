@@ -10,7 +10,6 @@ I save ideas I like so that I can easily find them later.
 - [Fuck-you money](https://thedeepdish.org/fuck-you-money/)
 - [SOLID principles in software design](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
 - [Design for repairability](https://interactionmagic.com/Design-for-repair)
-- [Golden age of design](https://www.youtube.com/watch?v=yBo0Y8OSGLE)
 - [Digital zombies](https://www.youtube.com/watch?v=15nR7nhFRZE)
 - [Being charismatic](https://www.artofmanliness.com/people/social-skills/the-3-elements-of-charisma-presence/)
 - [Spacial web browsers](https://maggieappleton.com/spatial-web)
