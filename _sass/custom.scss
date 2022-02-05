@@ -90,8 +90,8 @@ hr {
         overflow: hidden;
 
         @include media-query($on-palm) {
-            width: 42vw;
-            height: calc(1.53 * 42vw);
+            width: 38vw;
+            height: calc(1.53 * 38vw);
         }
 
         &:hover {
@@ -169,14 +169,15 @@ hr {
 }
 
 .insta-gallery {
-    margin: 0 -16px;
+    margin: 0 -15px;
     // width: 962px;
     min-height: 800px;
     text-align: center;
 
     @include media-query($on-palm) {
         width: 100%;
-        margin: auto;
+        width: calc(100% + 30px);
+        margin: auto -9px;
         text-align: center;
     }
     
@@ -195,10 +196,10 @@ hr {
     }
 
     .photo {
-        width: 300px;
-        height: 300px;
+        width: 299px;
+        height: 299px;
         display: inline-block;
-        margin: 14px 14px 14px;
+        margin: 16px 14px 16px;
         position: relative;
         vertical-align: top;
         transition: opacity 0.25s ease-in-out, transform 0.25s ease-in-out;
@@ -217,9 +218,9 @@ hr {
         }
 
         @include media-query($on-palm) {
-            width: 41vw;
-            height: calc(41vw);
-            margin: 14px 9px 14px;
+            width: 39vw;
+            height: calc(39vw);
+            margin: 12px 9px 12px;
         }
     }
     .photo .cover {
