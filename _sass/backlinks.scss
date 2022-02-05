@@ -1,22 +1,30 @@
 .backlink-box {
-    background: #F7F7F7;
-    border-radius: 8px;
-    border: 1px solid $grey-color-light;
-    padding: 8px 16px;
+    // background: #F7F7F7;
+    border: 2px solid $text-color;
+    border-radius: 4px;
+    padding: 8px 16px 12px;
     margin: 40px auto 10px;
 
     &:before {
         content: "Links to this page";
-        font-size: 11px;
+        font-size: 12px;
+        font-family: $heading-font-family;
+        font-weight: 500;
         text-transform: uppercase;       
     }
 
     ul {
         margin: 0;
+        margin-top: 4px;
         list-style: none;
 
         li a {
-            
+            padding: 1px 0;
+
+            &:hover {
+                color: $grey-color-dark;
+                border-bottom: 2px solid $grey-color;
+            }
         }
     }
 }

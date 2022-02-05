@@ -168,15 +168,16 @@ content a {
  * Blockquotes
  */
 blockquote {
-  padding: 1em 1.5em;
-  font-size: 0.88em;
-  background: #F7F7F7;
+  padding: 1em 1.75em;
+  font-family: $heading-font-family;
+  @include relative-font-size(1.0);
+  // background: #F7F7F7;
   color: lighten($text-color, 2%);
+  border: 2px solid $text-color;
   border-radius: 4px;
   margin-bottom: $spacing-unit;
   line-height: 1.6;
-
-  @include relative-font-size(1.125);
+  text-indent: -0.65em;
   // letter-spacing: -1px;
 
   > :last-child {
@@ -188,8 +189,11 @@ p + blockquote {
 }
 cite {
   display: block;
-  margin: 12px 0 0px;
+  margin: 14px 0 0px;
   opacity: 0.6;
+  font-size: $small-font-size;
+  font-style: normal;
+  text-indent: 0.1em;
 }
 
 

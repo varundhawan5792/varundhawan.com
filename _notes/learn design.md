@@ -27,13 +27,10 @@ A collection of books, articles, and sites that helped me open my mind about [[d
 - [Helvetica — A Documentary](https://vimeo.com/ondemand/helvetica3)
 
 ### Blogs about design
-- [A List Apart](https://alistapart.com/)
-- [Smashing Magazine](https://www.smashingmagazine.com/)
-- [DN](https://api.designernews.co/)
+- [Designer News](https://api.designernews.co/)
 - [Sidebar](https://sidebar.io/)
+- [Smashing Magazine](https://www.smashingmagazine.com/)
+- [A List Apart](https://alistapart.com/)
 - [Zeldman](https://www.zeldman.com/)
-
-### Web Development
 - [CSSTricks](https://css-tricks.com/)
 - [Codrops](https://tympanus.net/codrops/)
-- [David Walsh](https://davidwalsh.name/)
