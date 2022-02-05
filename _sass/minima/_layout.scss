@@ -14,6 +14,11 @@
   .wrapper {
     padding: 20px 16px;
     vertical-align: top;
+
+    @include media-query($on-laptop) {
+      padding-right: $spacing-unit;
+      padding-left: $spacing-unit;
+    }
   }
 }
 
@@ -74,11 +79,11 @@
   .page-link.active{
     color: #0055FF;
     position: relative;
-}
+  }
 
   @include media-query($on-palm) {
     position: absolute;
-    right: $spacing-unit / 2;
+    right: $spacing-unit;
     text-align: left;
 
     label[for="nav-trigger"] {
