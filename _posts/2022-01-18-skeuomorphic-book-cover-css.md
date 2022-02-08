@@ -2,7 +2,7 @@
 layout: post
 title: "Skeuomorphic book cover in CSS"
 date: 2022-01-18 11:11:00 +0530
-categories: web
+categories: css
 permalink: /blog/:year/:month/:day/:title
 excerpt: I was inspired by the look and feel of books in Apple Books. Created the same effect in CSS for the blog.
 ---

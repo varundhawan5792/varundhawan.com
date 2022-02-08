@@ -7,6 +7,7 @@ I save ideas I like so that I can easily find them later.
 ### Feb 2022
 - [Measuring UX](https://vimeo.com/414636141)
 - [Better way to say no](https://www.artofmanliness.com/people/social-skills/a-better-way-to-say-no/)
+- [Design Leadership at Digital Ocean](https://joelcalifa.com/work/digitalocean-design-leadership/)
 
 ### Jan 2022
 - [Taking atomic and reusable notes](https://maggieappleton.com/evergreens)
