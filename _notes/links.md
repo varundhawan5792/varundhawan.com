@@ -8,6 +8,9 @@ I save ideas I like so that I can easily find them later.
 - [Measuring UX](https://vimeo.com/414636141)
 - [Better way to say no](https://www.artofmanliness.com/people/social-skills/a-better-way-to-say-no/)
 - [Design Leadership at Digital Ocean](https://joelcalifa.com/work/digitalocean-design-leadership/)
+- [The box of daily experience](https://moretothat.com/travel-is-no-cure-for-the-mind/)
+- [Always be quitting](https://jmmv.dev/2021/04/always-be-quitting.html)
+- [How to write a good case study](https://uxtools.co/blog/5-principles-of-exceptional-case-studies-in-ux-portfolios/)
 
 ### Jan 2022
 - [Taking atomic and reusable notes](https://maggieappleton.com/evergreens)

@@ -15,20 +15,14 @@ excerpt: Recommendation of books I have found helpful
 <div class="bookshelf">
     <div class="book">
         <div class="cover">
-            <img src="https://images-na.ssl-images-amazon.com/images/I/51-nXsSRfZL._SX328_BO1,204,203,200_.jpg" alt="Atomic Habits">
+            <img src="https://m.media-amazon.com/images/I/41P0vehqsRL.jpg" alt="Ruined by Design">
         </div>
-        <a class="link" href="https://www.amazon.in/Atomic-Habits-James-Clear/dp/1847941834/" target="_blank"></a>
-    </div>
-    <div class="book">
-        <div class="cover">
-            <img src="https://images-na.ssl-images-amazon.com/images/I/41SxL78DpvL._SX324_BO1,204,203,200_.jpg" alt="21 Lessons for the 21st Century">
-        </div>
-        <a class="link" href="https://www.amazon.in/Lessons-21st-Century-Yuval-Harari/dp/1784708283/" target="_blank"></a>
+        <a class="link" href="https://www.amazon.in/Ruined-Design-Designers-Destroyed-World-ebook/dp/B07PS16XY9" target="_blank"></a>
     </div>
 </div>
 
 ### Halfway on the shelf
-
+- [21 Lessons for the 21st Century](https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century)
 - [Sapiens: Graphic Novel](https://www.goodreads.com/book/show/54898530-sapiens)
 - [Org Design for Design Orgs](https://www.goodreads.com/book/show/31681314-org-design-for-design-orgs)
 - [Rework](https://www.goodreads.com/book/show/6732019-rework)
