@@ -11,6 +11,7 @@ I save ideas I like so that I can easily find them later.
 - [The box of daily experience](https://moretothat.com/travel-is-no-cure-for-the-mind/)
 - [Always be quitting](https://jmmv.dev/2021/04/always-be-quitting.html)
 - [How to write a good case study](https://uxtools.co/blog/5-principles-of-exceptional-case-studies-in-ux-portfolios/)
+- [Tools for thinking](https://untools.co/)
 
 ### Jan 2022
 - [Taking atomic and reusable notes](https://maggieappleton.com/evergreens)
