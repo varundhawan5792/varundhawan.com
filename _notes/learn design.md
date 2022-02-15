@@ -1,9 +1,9 @@
 ---
 title: Learn design
-excerpt: Books and resources that helped me hack design
+excerpt: Books and resources that helped me understand design
 ---
 
-A collection of books, articles, and sites that helped me open my mind about [[design]] when I was starting out. I'll keep adding to the list.
+A collection of books, articles, and sites that helped open my mind about [[design]] when I was starting out. I'll keep adding to the list.
 
 ### Start here
 [Hack Design](https://hackdesign.org/lessons101) is a really well curated course for designers. 
@@ -26,7 +26,7 @@ A collection of books, articles, and sites that helped me open my mind about [[d
 - [Japan’s unusual way to view the world](http://www.bbc.com/travel/story/20181021-japans-unusual-way-to-view-the-world)
 - [Helvetica — A Documentary](https://vimeo.com/ondemand/helvetica3)
 
-### Blogs about design
+### Blogs on design
 - [Designer News](https://api.designernews.co/)
 - [Sidebar](https://sidebar.io/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
@@ -34,3 +34,14 @@ A collection of books, articles, and sites that helped me open my mind about [[d
 - [Zeldman](https://www.zeldman.com/)
 - [CSSTricks](https://css-tricks.com/)
 - [Codrops](https://tympanus.net/codrops/)
+
+### Other areas to develop
+Most importantly, understand that design is not creativity. Your job is to come up with the best solution to a problem, not the most creative one. 
+
+- How to understand business and organizational goals
+- How to run an inclusive design process
+- How to build a good argument
+- How to present your work
+- How to measure the effectiveness of your work
+- How to test the impact of a product
+- How to be fearless

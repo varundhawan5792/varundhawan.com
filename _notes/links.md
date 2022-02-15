@@ -1,5 +1,5 @@
 ---
-title: Saved links
+title: Reading log
 excerpt: A collection of ideas I find interesting
 ---
 I save ideas I like so that I can easily find them later.  
@@ -12,6 +12,8 @@ I save ideas I like so that I can easily find them later.
 - [Always be quitting](https://jmmv.dev/2021/04/always-be-quitting.html)
 - [How to write a good case study](https://uxtools.co/blog/5-principles-of-exceptional-case-studies-in-ux-portfolios/)
 - [Tools for thinking](https://untools.co/)
+- [System for staying in touch with family/friends](https://jakobgreenfeld.com/stay-in-touch)
+- [Junior vs Senior Designers](https://www.antonsten.com/juniorvssenior/)
 
 ### Jan 2022
 - [Taking atomic and reusable notes](https://maggieappleton.com/evergreens)

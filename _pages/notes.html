@@ -13,7 +13,7 @@ preview: false
 </div>
 
 <div class="notes-list">
-  {% assign notes = site.notes | sort: "title" %}
+  {% assign notes = site.notes | sort: "last_modified_at" %}
   {% for entry in notes %}
   {% unless entry.path contains "index.md" or entry.path contains "index.html" %}
   <div class="list-entry">
