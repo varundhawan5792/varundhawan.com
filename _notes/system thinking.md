@@ -3,6 +3,7 @@ title: System Thinking
 excerpt: What good system thinking looks like
 ---
 
+### Facets of good system thinking
 Based on notes from [this article](https://uxdesign.cc/every-design-is-a-system-28bb9bf028b7):
 
 **Working atomically / Defining the basics.** This automates system-wide changes and avoids rework and unintended consequences.
@@ -19,4 +20,12 @@ Based on notes from [this article](https://uxdesign.cc/every-design-is-a-system-
 
 **Documenting your system.** This can be a laborious task, but you need to document the decisions you make so they can understand the system you’ve created. If you work alone, that documentation still happens, but it may be all in your head — never externalised.
 
+### Designing systems
+1. Start where the product most benefits from the coherence offered by a system. For example, a component that's being used extensively.
+2. Try to remain in the habit of tackling the smallest problem you can.
+3. Apply a hypothesis to the problem at hand; if it works, change the parameters of the problem. Continue this process until the solution breaks, expand the scope of the solution accordingly, and—if you’re comfortable with the current solution’s ability to adapt—make the solution available for use, with the promise of it becoming even more suitable in the future.
+4. When creating something brand new to solve a problem, ask yourself: What implications does this have on the rest of the system? How can I change the solution to fit those rules, or limit the changes to those rules?
+5. Avoid *context* to determine the beahvior or appearance of a component.
 
+#### Related articles
+- [Designing for systems](https://daneden.me/blog/2019/designing-for-systems)

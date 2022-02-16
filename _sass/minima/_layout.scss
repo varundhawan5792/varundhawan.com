@@ -160,16 +160,6 @@
   padding: $spacing-unit 0;
 }
 
-.site-footer .wrapper:before {
-  content: "";
-  width: 40px;
-  height: 3px;
-  background: $text-color;
-  position: absolute;
-  margin-top: -50px;
-  opacity: 0.3;
-}
-
 .footer-heading {
   @include relative-font-size(1.125);
   margin-bottom: $spacing-unit / 2;
