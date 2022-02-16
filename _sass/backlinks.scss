@@ -15,9 +15,12 @@
 
     ul {
         margin: 0;
-        margin-top: 4px;
+        margin-top: $spacing-unit / 2;
         list-style: none;
 
+        li {
+            margin-bottom: $spacing-unit / 2;
+        }
         li a {
             padding: 1px 0;
 
