@@ -8,12 +8,15 @@ I save ideas I like so that I can easily find them later.
 - [Measuring UX](https://vimeo.com/414636141)
 - [Better way to say no](https://www.artofmanliness.com/people/social-skills/a-better-way-to-say-no/)
 - [Design Leadership at Digital Ocean](https://joelcalifa.com/work/digitalocean-design-leadership/)
-- [The box of daily experience](https://moretothat.com/travel-is-no-cure-for-the-mind/)
+- [Get comfortable with the box you live in](https://moretothat.com/travel-is-no-cure-for-the-mind/)
 - [Always be quitting](https://jmmv.dev/2021/04/always-be-quitting.html)
 - [How to write a good case study](https://uxtools.co/blog/5-principles-of-exceptional-case-studies-in-ux-portfolios/)
 - [Tools for thinking](https://untools.co/)
 - [System for staying in touch with family/friends](https://jakobgreenfeld.com/stay-in-touch)
 - [Junior vs Senior Designers](https://www.antonsten.com/juniorvssenior/)
+- [Design Discovery vs Technical Debt](https://refactoring.fm/p/the-true-meaning-of-technical-debt)
+- [Building Team Spirit](https://candost.blog/have-the-first-win-to-build-team-spirit/)
+- [Roadmaps should be prioritized problems](https://www.youtube.com/watch?v=DQ1RjfxTyG0)
 
 ### Jan 2022
 - [Taking atomic and reusable notes](https://maggieappleton.com/evergreens)

@@ -13,17 +13,15 @@ preview: false
 </div>
 
 <div class="notes-list">
-  {% assign notes = site.notes | sort: "last_modified_at" %}
+  {% assign notes = site.notes | where_exp: "item", "item.path contains 'notes'" | sort: "last_modified_at" %}
   {% for entry in notes %}
-  {% unless entry.path contains "index.md" or entry.path contains "index.html" %}
   <div class="list-entry">
     <div>
       <a class="note-heading internal-link" href="{{ entry.url }}">{{ entry.title }}</a> 
-      <span class="faded">({{ entry.last_modified_at | date: "%b %-d, %Y" }})</span>
+      <span class="faded hide">({{ entry.last_modified_at | date: "%b %-d, %Y" }})</span> 
     </div>
     <div>{{ entry.excerpt | strip_html | truncatewords: 30 }}</div>
   </div>
-  {% endunless %}
   {% endfor %}
 </div>
 
