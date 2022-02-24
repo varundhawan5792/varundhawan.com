@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://varundhawan.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: __varundhawan
 github_username:  varundhawan5792
-
+timezone: UTC+05:30
 # If you are using a host that cannot resolve URLs that do
 # not end with .html (such as Neocities), set this to 'true'.
 use_html_extension:  false
