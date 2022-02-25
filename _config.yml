@@ -33,7 +33,7 @@ use_html_extension:  false
 
 # Set to `true` to open non-internal links in new tabs, or
 # set to `false` to open non-internal links in current tab.
-open_external_links_in_new_tab: true
+open_external_links_in_new_tab: false
 
 permalink:           pretty
 relative_permalinks: false

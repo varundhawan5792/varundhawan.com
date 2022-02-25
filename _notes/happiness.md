@@ -3,7 +3,7 @@ title: Happiness is a systemic change
 excerpt: Happiness is the feeling of contribution
 ---
 
-We feel happy when we feel we are of use to someone. 
+We feel happy when we feel [[self-worth|we are of use to someone]]. 
 
 When we have low self-worth, that becomes difficult. We being to look for recognition to feel useful. Everything becomes about getting recognized. This desire makes life a competition and we start seeing others as enemies. 
 

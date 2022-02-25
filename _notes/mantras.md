@@ -3,5 +3,6 @@ title: Mantras
 published: false
 ---
 
-- Trauma doesn't exist
 - Hell yeah or no
+- Trauma doesn't exist
+- All problems are interpersonal problems 
