@@ -4,6 +4,10 @@ excerpt: A collection of ideas I find interesting
 ---
 I save ideas I like so that I can easily find them later.  
 
+### Mar 2022
+- [Creating a roadmap](https://www.neuronux.com/post/how-to-create-a-product-roadmap)
+- [God playing hide-and-seek](https://www.goodreads.com/quotes/9628986-god-likes-to-play-hide-and-seek-but-because-there-is-nothing)
+
 ### Feb 2022
 - [Measuring UX](https://vimeo.com/414636141)
 - [Better way to say no](https://www.artofmanliness.com/people/social-skills/a-better-way-to-say-no/)
@@ -17,6 +21,7 @@ I save ideas I like so that I can easily find them later.
 - [Design Discovery vs Technical Debt](https://refactoring.fm/p/the-true-meaning-of-technical-debt)
 - [Building Team Spirit](https://candost.blog/have-the-first-win-to-build-team-spirit/)
 - [Roadmaps should be prioritized problems](https://www.youtube.com/watch?v=DQ1RjfxTyG0)
+- [Braided design model](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/building-a-design-driven-culture)
 
 ### Jan 2022
 - [Taking atomic and reusable notes](https://maggieappleton.com/evergreens)
