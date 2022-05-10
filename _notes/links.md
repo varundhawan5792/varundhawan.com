@@ -4,9 +4,14 @@ excerpt: A collection of ideas I find interesting
 ---
 I save ideas I like so that I can easily find them later.  
 
+### May 2022
+- [Efficiency is the enemy](https://fs.blog/slack/)
+- [Why people default to decision that look best](https://fs.blog/defensive-decision-making/)
+
 ### Mar 2022
 - [Creating a roadmap](https://www.neuronux.com/post/how-to-create-a-product-roadmap)
 - [God playing hide-and-seek](https://www.goodreads.com/quotes/9628986-god-likes-to-play-hide-and-seek-but-because-there-is-nothing)
+- [Phenylephrine is useless](https://www.science.org/content/blog-post/uselessness-phenylephrine)
 
 ### Feb 2022
 - [Measuring UX](https://vimeo.com/414636141)
