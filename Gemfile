@@ -33,4 +33,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 # Adding capabilities
 gem "webrick", "~> 1.7"
-gem "nokogiri", "~> 1.13.2"
+gem "nokogiri", ">= 1.13.4"
