@@ -4,9 +4,15 @@ excerpt: A collection of ideas I find interesting
 ---
 I save ideas I like so that I can easily find them later.  
 
+### June 2022
+- [What is design debt](https://uxdesign.cc/the-what-and-why-of-design-debt-861be8b887fe)
+- [Addressing design debt](https://uxdesign.cc/paying-off-design-debt-605d24487a70)
+
 ### May 2022
 - [Efficiency is the enemy](https://fs.blog/slack/)
 - [Why people default to decision that look best](https://fs.blog/defensive-decision-making/)
+- [Patterns in geometry, nature, and architecture](https://etereaestudios.com/works/infinitepatterns/)
+- [Anti-aging supplements](https://novoslabs.com/best-anti-aging-supplements-that-harvard-scientist-david-sinclair-takes/)
 
 ### Mar 2022
 - [Creating a roadmap](https://www.neuronux.com/post/how-to-create-a-product-roadmap)
