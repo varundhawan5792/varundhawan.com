@@ -1,5 +1,5 @@
 ---
-title: Definition of design
+title: What is design?
 excerpt: To design is to do something with a specific purpose in mind 
 ---
 

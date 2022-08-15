@@ -4,6 +4,10 @@ excerpt: A collection of ideas I find interesting
 ---
 I save ideas I like so that I can easily find them later.  
 
+### Aug 2022
+- [Gujarati Type Foundary](https://oa.letterformarchive.org/item?workID=lfa_type_0401&targPic=lfa_type_0401_001.jpg)
+- [Podcasts about brand redesigns](https://www.achangeofbrand.com/)
+
 ### June 2022
 - [What is design debt](https://uxdesign.cc/the-what-and-why-of-design-debt-861be8b887fe)
 - [Addressing design debt](https://uxdesign.cc/paying-off-design-debt-605d24487a70)
