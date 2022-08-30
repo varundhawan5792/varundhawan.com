@@ -15,9 +15,9 @@ excerpt: Recommendation of books I have found helpful
 <div class="bookshelf">
     <div class="book">
         <div class="cover">
-            <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442321298l/25752455._SY475_.jpg" alt="Ruined by Design">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/71ypB4SU5-L.jpg" alt="Essays on Love">
         </div>
-        <a class="link" href="https://www.goodreads.com/book/show/25752455-the-happiness-hypothesis" target="_blank"></a>
+        <a class="link" href="https://www.goodreads.com/book/show/23427.Essays_in_Love" target="_blank"></a>
     </div>
 </div>
 
@@ -42,10 +42,11 @@ excerpt: Recommendation of books I have found helpful
 - [HBR's 10 Must Reads on Managing Yourself, HBR](https://www.goodreads.com/book/show/10307135-hbr-s-10-must-reads-on-managing-yourself)
 - [Rework](https://www.goodreads.com/book/show/6732019-rework)
 
-### Philosophy
+### Philosophy and Psychology
 
 - [Courage to be Disliked – Ichiro Kishimi](https://www.goodreads.com/book/show/36752952-the-courage-to-be-disliked)
 - [Courage to be Happy – Ichiro Kishimi](https://www.goodreads.com/book/show/53104596-the-courage-to-be-happy)
+- [Happiness Hypothesis – Jonathan Haidt](https://www.goodreads.com/book/show/25752455-the-happiness-hypothesis)
 - [Meditation and it's Methods – Swami Vivekananda](https://www.goodreads.com/book/show/20423642-meditation-and-its-methods)
 - [How to Love – Thich Nhat Hanh](https://www.goodreads.com/book/show/28585303-how-to-love)
 - [My Gita – Devdutt Pattanaik](https://www.goodreads.com/book/show/27834914-my-gita)
