@@ -1,5 +1,5 @@
 ---
-title: Cognitive Distortions
+title: Your thinking is distorted
 excerpt: A list of irrational thought pattern to avoid
 ---
 

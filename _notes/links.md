@@ -28,9 +28,11 @@ excerpt: A collection of ideas I find interesting
 - [Anatomy of design thinking workshops](https://uxdesign.cc/comprehensive-anatomy-of-all-ux-design-thinking-workshops-c416706cd3e2)
 - [5 design workshops for a better design process](https://www.nngroup.com/articles/5-ux-workshops/)
 - [How to think about design principles](https://jonathanjeter.com/2011/05/27/jared-spool-the-essential-principles-behind-great-design-principles/)
+- [How to doubt constructively](https://matthewstrom.com/writing/doubt/)
 
 ### Design Philosophy
 - [Simplicity is a war](https://www.gosquared.com/blog/simplicity)
+- [Value, Efficiency, Delight](https://matthewstrom.com/writing/delight-comes-last/)
 - [What is design debt](https://uxdesign.cc/the-what-and-why-of-design-debt-861be8b887fe)
 - [Addressing design debt](https://uxdesign.cc/paying-off-design-debt-605d24487a70)
 - [More time in design discovery will reduce technical debt](https://refactoring.fm/p/the-true-meaning-of-technical-debt)

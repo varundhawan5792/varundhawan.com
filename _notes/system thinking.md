@@ -1,6 +1,6 @@
 ---
-title: System Thinking
-excerpt: What good system thinking looks like
+title: Designing systems
+excerpt: Principles for designing systems
 ---
 
 ### Facets of good system thinking

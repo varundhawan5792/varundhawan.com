@@ -7,3 +7,4 @@ published: false
 - Trauma doesn't exist
 - All problems are interpersonal problems 
 - Bias for action
+- Pride in work

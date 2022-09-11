@@ -1,7 +1,6 @@
 ---
-title: Building Technology Platform
+title: Building a technology platform
 excerpt: Ideas on building a technology platform
-published: false
 ---
 
 Platform is a collection of parts common to all problems in the domain. Great technology platforms are at the intersection of: 
