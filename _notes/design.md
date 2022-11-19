@@ -17,7 +17,7 @@ Without intent or purpose, it's not meaningful. It will become an open-ended exp
 
 Designers build an intuition over time. Web designers has an eye for beautiful digital experience. Architect have intuition about the utilization of 3-dimensional space. Graphic designers about communicating ideas. Engineers have the intuition to design software. 
 
-Intuition doesn't mean "not applying" the rules. It often means knowing the rules really well to not look them up; maybe even break them like an artist. 
+Intuition doesn't mean "not applying" the rules. It often means knowing the rules really well to not look them up; maybe even breaking them like an artist. 
 
 Anyone who influences what the design becomes is a designer.
 

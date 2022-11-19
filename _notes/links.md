@@ -12,31 +12,34 @@ excerpt: A collection of ideas I find interesting
 - [How to ask feedback](https://www.samjulien.com/how-to-ask-for-feedback)
 - [Why you should keep a journal](https://hbr.org/2017/07/the-more-senior-your-job-title-the-more-you-need-to-keep-a-journal)
 - [Always be quitting](https://jmmv.dev/2021/04/always-be-quitting.html)
+- [Life changes for better productivity](https://nabeelqu.co/advice)
 
 ### Team Management
 - [Busy work and happy teams](https://tomlingham.com/articles/why-are-you-so-busy/)
 - [Design Leadership at Digital Ocean](https://joelcalifa.com/work/digitalocean-design-leadership/)
 - [Building Team Spirit](https://candost.blog/have-the-first-win-to-build-team-spirit/)
 
-### Product Design   
+### Building Products
 - [Creating a roadmap](https://www.neuronux.com/post/how-to-create-a-product-roadmap)
 - [Roadmaps should be prioritized problems](https://www.youtube.com/watch?v=DQ1RjfxTyG0)
 - [Braided design model](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/building-a-design-driven-culture)
+- [Effective Collaboration with Product and Design](https://www.joshwcomeau.com/career/effective-collaboration/)
 - [Measuring UX](https://vimeo.com/414636141)
-- [Junior vs Senior Designers](https://www.antonsten.com/juniorvssenior/)
-- [How to write a good case study](https://uxtools.co/blog/5-principles-of-exceptional-case-studies-in-ux-portfolios/)
 - [Anatomy of design thinking workshops](https://uxdesign.cc/comprehensive-anatomy-of-all-ux-design-thinking-workshops-c416706cd3e2)
 - [5 design workshops for a better design process](https://www.nngroup.com/articles/5-ux-workshops/)
 - [How to think about design principles](https://jonathanjeter.com/2011/05/27/jared-spool-the-essential-principles-behind-great-design-principles/)
-- [How to doubt constructively](https://matthewstrom.com/writing/doubt/)
+- [Ditch MVP, use "Simple, Lovable, Complete" instead](https://blog.asmartbear.com/slc.html)
 
 ### Design Philosophy
+- [Quality of design](https://paulstamatiou.com/craft/)
 - [Simplicity is a war](https://www.gosquared.com/blog/simplicity)
 - [Value, Efficiency, Delight](https://matthewstrom.com/writing/delight-comes-last/)
 - [What is design debt](https://uxdesign.cc/the-what-and-why-of-design-debt-861be8b887fe)
 - [Addressing design debt](https://uxdesign.cc/paying-off-design-debt-605d24487a70)
 - [More time in design discovery will reduce technical debt](https://refactoring.fm/p/the-true-meaning-of-technical-debt)
 - [SOLID principles for dummies](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
+- [Junior vs Senior Designers](https://www.antonsten.com/juniorvssenior/)
+- [How to write a good case study](https://uxtools.co/blog/5-principles-of-exceptional-case-studies-in-ux-portfolios/)
 - [Design for repairability](https://interactionmagic.com/Design-for-repair)
 
 ### Art
