@@ -70,7 +70,13 @@ excerpt: A collection of ideas I find interesting
 - [Negotiation cheatsheet](https://www.yanda.com/negotiation)
 - [Don't live to fit in](https://www.epsilontheory.com/25-anti-mimetic-tactics-for-living-a-counter-cultural-life/)
 
+### Love
+- [Romanticism is failing us](https://www.youtube.com/watch?v=jJ6K_f7oSdg)
+- [What is true love](https://www.youtube.com/watch?v=bw-_iPIcGIU)
+- [Choosing a partner wisely](https://www.youtube.com/watch?v=IuV80wYRld0)
+
 ### Other
 - [Spacial web browsers](https://maggieappleton.com/spatial-web)
 - [Early employee manual](https://manual.withcompound.com/)
 - [Tokyo 3D map](https://minitokyo3d.com/)  
+- [Super rich are inevitable](https://pudding.cool/2022/12/yard-sale/)
