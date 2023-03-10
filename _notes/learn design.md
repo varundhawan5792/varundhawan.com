@@ -3,7 +3,7 @@ title: Learn design
 excerpt: Books and resources that helped me understand design
 ---
 
-These books, articles, and sites helped open my mind about [[design]] as I was starting out. You will find them helpful. But most importantly, **understand that design is not creativity. Your job is to come up with the best solution to a problem, not the most creative one.** 
+These books, articles, and people helped open up my mind about [[design]] as I was starting out. You will find them helpful. But most importantly, **understand that design is not creativity. Your job is to come up with the best solution to a problem, not the most creative one.** 
 
 ### Start here
 [Hack Design](https://hackdesign.org/lessons101) is a really well curated course for designers. (Some of the links might be broken, but it still offers a good list of topics to cover)
@@ -16,7 +16,8 @@ These books, articles, and sites helped open my mind about [[design]] as I was s
 - Inspired
 - Just enough research
 
-### Typography
+### Visual Design
+- [Rules of Thumb for Visual Design](https://anthonyhobday.com/sideprojects/saferules/)
 - [The Elements of Typographic Style](https://www.goodreads.com/book/show/15811145-the-elements-of-typographic-style "The Elements of Typographic Style: Version 4.0")
 - [Thinking With Type](https://www.goodreads.com/book/show/8504892-thinking-with-type "Thinking With Type")
 - [Design is still anout words](https://signalvnoise.com/posts/3404-reminder-design-is-still-about-words)

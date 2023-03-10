@@ -11,7 +11,7 @@ This happens with family, friends, and coworkers. You can't feel happy about a f
 
 When others decide our value, our self-worth takes a big hit. It's a vicious cycle.
 
-Alfred Adler said that all problems are interpersonal problems. The desire for recognition is an interpersonal problem too. It arises becase we can't separate our tasks from other people's tasks. Most unhappiness arises because we try to do other people's tasks or let them interfere in ours. 
+Alfred Adler said that all problems are interpersonal problems. The desire for recognition is an interpersonal problem too. It arises because we can't separate our tasks from other people's tasks. Most unhappiness arises because we try to do other people's tasks or let them interfere in ours. 
 
 When conducting the separation of tasks, we need to first ask ourselves the following question:
 >Who ultimately is going to receive the end result brought about by the choice that is made? <cite>Alfred Adler</cite>

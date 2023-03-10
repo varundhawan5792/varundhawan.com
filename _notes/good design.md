@@ -1,6 +1,6 @@
 ---
 title: Good Design
-excerpt: What differenciates a good design from a bad design
+excerpt: What differentiates a good design from a bad design
 published: false
 ---
 

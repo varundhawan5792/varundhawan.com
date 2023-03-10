@@ -29,6 +29,7 @@ excerpt: A collection of ideas I find interesting
 - [5 design workshops for a better design process](https://www.nngroup.com/articles/5-ux-workshops/)
 - [How to think about design principles](https://jonathanjeter.com/2011/05/27/jared-spool-the-essential-principles-behind-great-design-principles/)
 - [Ditch MVP, use "Simple, Lovable, Complete" instead](https://blog.asmartbear.com/slc.html)
+- [How to run a product team](https://manassaloi.com/2020/03/23/running-product-team.html)
 
 ### Design Philosophy
 - [Quality of design](https://paulstamatiou.com/craft/)
@@ -41,6 +42,7 @@ excerpt: A collection of ideas I find interesting
 - [Junior vs Senior Designers](https://www.antonsten.com/juniorvssenior/)
 - [How to write a good case study](https://uxtools.co/blog/5-principles-of-exceptional-case-studies-in-ux-portfolios/)
 - [Design for repairability](https://interactionmagic.com/Design-for-repair)
+- [Lessons in design](https://lessons.design/)
 
 ### Art
 - [Gujarati Type Foundary](https://oa.letterformarchive.org/item?workID=lfa_type_0401&targPic=lfa_type_0401_001.jpg)
@@ -55,12 +57,6 @@ excerpt: A collection of ideas I find interesting
 ### Lifespan
 - [Anti-aging supplements](https://novoslabs.com/best-anti-aging-supplements-that-harvard-scientist-david-sinclair-takes/)
 
-### Phiolosophy
-- [God playing hide-and-seek](https://www.goodreads.com/quotes/9628986-god-likes-to-play-hide-and-seek-but-because-there-is-nothing)
-- [Get comfortable with the box you live in](https://moretothat.com/travel-is-no-cure-for-the-mind/)
-- [Buddhism and Jiddu Krishnamurti](http://www.katinkahesselink.net/sitemap.htm)
-- [Digital zombies](https://www.youtube.com/watch?v=15nR7nhFRZE)
-
 ### Personal Growth
 - [Why people default to decision that look best](https://fs.blog/defensive-decision-making/)
 - [System for staying in touch with family/friends](https://jakobgreenfeld.com/stay-in-touch)
@@ -69,6 +65,13 @@ excerpt: A collection of ideas I find interesting
 - [Fuck-you money](https://thedeepdish.org/fuck-you-money/)
 - [Negotiation cheatsheet](https://www.yanda.com/negotiation)
 - [Don't live to fit in](https://www.epsilontheory.com/25-anti-mimetic-tactics-for-living-a-counter-cultural-life/)
+
+### Phiolosophy
+- [God playing hide-and-seek](https://www.goodreads.com/quotes/9628986-god-likes-to-play-hide-and-seek-but-because-there-is-nothing)
+- [Ego, the false center](https://www.jacobsm.com/deoxy/deoxy.org/egofalse.htm)
+- [Get comfortable with the box you live in](https://moretothat.com/travel-is-no-cure-for-the-mind/)
+- [Buddhism and Jiddu Krishnamurti](http://www.katinkahesselink.net/sitemap.htm)
+- [Digital zombies](https://www.youtube.com/watch?v=15nR7nhFRZE)
 
 ### Love
 - [Romanticism is failing us](https://www.youtube.com/watch?v=jJ6K_f7oSdg)
