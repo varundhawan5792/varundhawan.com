@@ -30,6 +30,7 @@ excerpt: A collection of ideas I find interesting
 - [How to think about design principles](https://jonathanjeter.com/2011/05/27/jared-spool-the-essential-principles-behind-great-design-principles/)
 - [Ditch MVP, use "Simple, Lovable, Complete" instead](https://blog.asmartbear.com/slc.html)
 - [How to run a product team](https://manassaloi.com/2020/03/23/running-product-team.html)
+- [How to evaluate a product roadmap](https://stephen.fm/how-to-evaluate-a-product-roadmap/)
 
 ### Design Philosophy
 - [Quality of design](https://paulstamatiou.com/craft/)
@@ -43,6 +44,10 @@ excerpt: A collection of ideas I find interesting
 - [How to write a good case study](https://uxtools.co/blog/5-principles-of-exceptional-case-studies-in-ux-portfolios/)
 - [Design for repairability](https://interactionmagic.com/Design-for-repair)
 - [Lessons in design](https://lessons.design/)
+- [Operating at Staff](https://staffeng.com/guides/operating-at-staff/)
+
+### Design Leadership
+[Andy Budd on Accidental Leadership](https://www.youtube.com/watch?v=YWwae_p76Vs)
 
 ### Art
 - [Gujarati Type Foundary](https://oa.letterformarchive.org/item?workID=lfa_type_0401&targPic=lfa_type_0401_001.jpg)
@@ -65,6 +70,8 @@ excerpt: A collection of ideas I find interesting
 - [Fuck-you money](https://thedeepdish.org/fuck-you-money/)
 - [Negotiation cheatsheet](https://www.yanda.com/negotiation)
 - [Don't live to fit in](https://www.epsilontheory.com/25-anti-mimetic-tactics-for-living-a-counter-cultural-life/)
+- [The status trap](https://every.to/no-small-plans/the-status-trap)
+- [Live life by your values](https://every.to/no-small-plans/how-to-identify-and-live-your-life-by-your-values)
 
 ### Phiolosophy
 - [God playing hide-and-seek](https://www.goodreads.com/quotes/9628986-god-likes-to-play-hide-and-seek-but-because-there-is-nothing)
@@ -72,14 +79,20 @@ excerpt: A collection of ideas I find interesting
 - [Get comfortable with the box you live in](https://moretothat.com/travel-is-no-cure-for-the-mind/)
 - [Buddhism and Jiddu Krishnamurti](http://www.katinkahesselink.net/sitemap.htm)
 - [Digital zombies](https://www.youtube.com/watch?v=15nR7nhFRZE)
+- [False ego](https://www.jacobsm.com/deoxy/deoxy.org/egofalse.htm)
 
 ### Love
 - [Romanticism is failing us](https://www.youtube.com/watch?v=jJ6K_f7oSdg)
 - [What is true love](https://www.youtube.com/watch?v=bw-_iPIcGIU)
 - [Choosing a partner wisely](https://www.youtube.com/watch?v=IuV80wYRld0)
 
+### Investing
+- [How to invest a lumpsum amount?](https://www.youtube.com/watch?v=uGIrJHpjxbI)
+
 ### Other
 - [Spacial web browsers](https://maggieappleton.com/spatial-web)
 - [Early employee manual](https://manual.withcompound.com/)
 - [Tokyo 3D map](https://minitokyo3d.com/)  
 - [Super rich are inevitable](https://pudding.cool/2022/12/yard-sale/)
+- [Everything must be paid for twice](https://www.raptitude.com/2022/01/everything-must-be-paid-for-twice/)
+- [Library of Automobile UI Interfaces](https://www.autointerfaces.com/)

@@ -1,0 +1,52 @@
+# Trillion Dollar Coach
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41SkGv3-SuL._SL200_.jpg)
+
+## Metadata
+- Author: [[Eric Schmidt, Jonathan Rosenberg, and Alan Eagle]]
+- Full Title: Trillion Dollar Coach
+- Category: #books
+
+## Highlights
+- Excellent teams at Google had psychological safety ([Location 91](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=91))
+- The teams had clear goals, each role was meaningful, and members were reliable and confident that the team’s mission would make a difference. ([Location 92](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=92))
+- when a company is in the implementation stage of an innovation (such as when Google was developing its search engine and AdWords), they need managers to help coordinate resources and resolve conflicts. ([Location 454](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=454))
+- there’s always tension between creativity and operational efficiency. ([Location 457](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=457))
+- People who are successful run their companies well. They have good processes, they make sure their people are accountable, they know how to hire great people, how to evaluate them and give them feedback, and they pay them well.” ([Location 462](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=462))
+- leadership was something that evolved as a result of management excellence. ([Location 472](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=472))
+- It’s not by being a dictator. It’s not by telling them what the hell to do. It’s making sure that they feel valued by being in the room with you. Listen. Pay attention. ([Location 473](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=473))
+- the more talented the subordinate, the less likely she is to simply follow orders.” ([Location 477](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=477))
+- The objectives were twofold. First, for team members to get to know each other as people, with families and interesting lives outside of work. And second, to get everyone involved in the meeting from the outset in a fun way, as Googlers and human beings, and not just as experts and owners of their particular roles. ([Location 562](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=562))
+- “get the 1:1 right” and “get the staff meeting right” are tops on the list of his most important management principles. ([Location 582](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=582))
+- Staff meetings should be a forum for the most important issues and opportunities, more so than 1:1s. “Use meetings to get everyone on the same page, get to the right debate, and make decisions.” ([Location 584](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=584))
+- bringing them to the table in team meetings lets people understand what is going on in the other teams, ([Location 586](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=586))
+- discussing them as a group helps develop understanding and build cross-functional strength. ([Location 586](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=586))
+- giving everyone a voice, and managing the clock well are key factors to achieving that engagement. ([Location 593](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=593))
+- Bill would ask Jonathan what his top five items were. Jonathan came to realize that this approach was Bill’s way of seeing how Jonathan was prioritizing his time and effort. ([Location 611](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=611))
+- The discussion of the list was in itself a form of coaching ([Location 613](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=613))
+- process of merging the two agendas could serve as a lesson in prioritization. ([Location 616](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=616))
+- the most important thing a manager does is to help people be more effective and to grow and develop, and the 1:1 is the best opportunity to accomplish that. ([Location 618](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=618))
+- He always started with the “small talk,” ([Location 620](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=620))
+- From the (not so) small talk, Bill moved to performance: What are you working on? How is it going? How could he help? Then, we would always get to peer relationships, which Bill thought were more important than relationships with your manager and other higher-ups. ([Location 626](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=626))
+- What do your teammates think of you? That’s what’s important! ([Location 630](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=630))
+- From peer relationships, Bill would move on to teams. ([Location 631](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=631))
+- were we setting a clear direction for them, and constantly reinforcing it? Did we understand what they were doing? ([Location 632](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=632))
+- “Think that everyone who works for you is like your kids,” Bill once said. “Help them course correct, make them better.” ([Location 633](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=633))
+- Then he’d want to talk about innovation. Were we making space for it on our teams? How were we balancing the inherent tension between innovation and execution? ([Location 635](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=635))
+- on. Bill always counseled us to have one email, straight from the senior person, ([Location 642](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=642))
+- BILL’S FRAMEWORK FOR 1:1S AND REVIEWS ([Location 657](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=657))
+- use a management technique he called the “rule of two.” He would get the two people most closely involved in the decision to gather more information and work together on the best solution, and usually they would come back a week or two later having decided together on the best course of action. ([Location 682](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=682))
+- collegiality. It empowers the two people who are working on the issue to figure out ways to solve the problem, ([Location 685](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=685))
+- And it forms a habit of working together to resolve conflict that pays off with better camaraderie and decision making for years afterward. ([Location 687](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=687))
+- one of a manager’s main jobs is to facilitate decisions, and he had a particular framework for doing so. ([Location 692](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=692))
+- moment. Bill encouraged ensembles and always strived for a politics-free environment. ([Location 695](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=695))
+- He believed in striving for the best idea, not consensus (“I hate consensus!” he would growl), ([Location 698](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=698))
+- The way to get the best idea, he believed, was to get all of the opinions and ideas out in the open, on the table for the group to discuss. ([Location 701](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=701))
+- If the problem or decision at hand is more functional in nature (for example, primarily a marketing or finance decision), then the discussion should be led by the person with that functional expertise. ([Location 702](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=702))
+- decision cutting across multiple functional areas, then the team leader owns the discussion. ([Location 704](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=704))
+- Bill would often sit down with individuals before the meeting to find out what they were thinking. ([Location 705](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=705))
+- they had already thought through, and talked through, their own perspective and were ready to present it. ([Location 708](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=708))
+- If your team is working well and thinking company-first rather than me-first, then after the fireworks subside the best idea will likely emerge. ([Location 711](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=711))
+- when she was discussing a decision with her team, she always had to be the last person to speak. ([Location 716](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=716))
+- when you just blurt it out, you have robbed the team of the chance to come together. ([Location 717](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=717))
+- When the best idea doesn’t emerge, it’s time for the manager to force the decision or make it herself. ([Location 720](https://readwise.io/to_kindle?action=open&asin=B07JFKHCNY&location=720))
