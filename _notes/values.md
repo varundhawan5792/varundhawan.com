@@ -1,5 +1,5 @@
 ---
-title: My values
+title: Discovering my values
 ---
 In ACT (Acceptance and Commitment Therapy), values are behaviors that represent how we want to live our lives and give us a sense of meaning and purpose. 
 
