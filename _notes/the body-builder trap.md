@@ -1,7 +1,7 @@
 ---
 alias: The status trap
 title: The Body-Builder Trap
-excerpt: Ideas on building a technology platform
+excerpt: Seeking status to escape inadequacy can reinforce self-doubt
 ---
 When we seek status as a way to escape feelings of “not-enoughness,” we often reinforce the core underlying belief that something is wrong with us.
 

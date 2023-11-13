@@ -1,5 +1,5 @@
 ---
-title: Your thinking is distorted
+title: Know when your thinking is distorted
 excerpt: A list of irrational thought pattern to avoid
 ---
 
