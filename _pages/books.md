@@ -27,7 +27,7 @@ excerpt: Recommendation of books I have found helpful
 - [The Psychology of Money](https://www.amazon.in/gp/product/B08FHZ5L47)
 - [7 Habits of Highly Effective People](https://www.amazon.in/gp/product/B07WF972WK)
 - [Art of Thinking Clearly](https://www.amazon.in/gp/product/B00AJP267G)
-- [The Element: How Finding Your Passoin Changes Everything](https://www.amazon.in/gp/product/B002XHNMVM)
+- [Finding Your Element: How to Discover Your Talents and Passions and Transform Your Life](https://www.amazon.in/gp/product/B00ADNP8RE)
 - [How Will You Measure Your Life?](https://www.amazon.in/gp/product/B006I1AE92)
 - [Autobiography of a Restless Mind](https://www.amazon.in/gp/product/B0792R9KF9)
 - [It Doesn't Need to Be Crazy at Work](https://www.amazon.in/gp/product/B07FQYGWCS)

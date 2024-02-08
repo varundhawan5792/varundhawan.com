@@ -20,6 +20,7 @@ excerpt: A collection of ideas I find interesting
 - [Building Team Spirit](https://candost.blog/have-the-first-win-to-build-team-spirit/)
 
 ### Building Products
+- [Getting Real](https://basecamp.com/gettingreal/01.1-what-is-getting-real)
 - [Creating a roadmap](https://www.neuronux.com/post/how-to-create-a-product-roadmap)
 - [Roadmaps should be prioritized problems](https://www.youtube.com/watch?v=DQ1RjfxTyG0)
 - [Braided design model](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/building-a-design-driven-culture)
@@ -89,6 +90,9 @@ excerpt: A collection of ideas I find interesting
 ### Investing
 - [How to invest a lumpsum amount?](https://www.youtube.com/watch?v=uGIrJHpjxbI)
 
+### Writing
+- [The Elements of Style](https://www.bartleby.com/lit-hub/the-elements-of-style/)
+
 ### Other
 - [Spacial web browsers](https://maggieappleton.com/spatial-web)
 - [Early employee manual](https://manual.withcompound.com/)
@@ -96,3 +100,4 @@ excerpt: A collection of ideas I find interesting
 - [Super rich are inevitable](https://pudding.cool/2022/12/yard-sale/)
 - [Everything must be paid for twice](https://www.raptitude.com/2022/01/everything-must-be-paid-for-twice/)
 - [Library of Automobile UI Interfaces](https://www.autointerfaces.com/)
+- [Manifesto by great artists](https://wepresent.wetransfer.com/stories/manifesto-christoph-niemann)
