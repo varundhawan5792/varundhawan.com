@@ -70,3 +70,9 @@
 - Playful: being humorous, fun-loving, light-hearted ([Location 2195](https://readwise.io/to_kindle?action=open&asin=B098TK7QYM&location=2195))
 - Responsible: being trustworthy, reliable and accountable for my actions ([Location 2199](https://readwise.io/to_kindle?action=open&asin=B098TK7QYM&location=2199))
 - the brain changes through addition, not subtraction. ([Location 2344](https://readwise.io/to_kindle?action=open&asin=B098TK7QYM&location=2344))
+## New highlights added April 18, 2024 at 10:58 PM
+- Compassionate/self-compassionate: responding kindly to myself or others in pain ([Location 2167](https://readwise.io/to_kindle?action=open&asin=B098TK7QYM&location=2167))
+- Grateful: being appreciative for what I have received ([Location 2182](https://readwise.io/to_kindle?action=open&asin=B098TK7QYM&location=2182))
+- Kind: being considerate, helpful or caring — to myself or others ([Location 2188](https://readwise.io/to_kindle?action=open&asin=B098TK7QYM&location=2188))
+- Persistent/committed: willing to continue, despite problems or difficulties ([Location 2194](https://readwise.io/to_kindle?action=open&asin=B098TK7QYM&location=2194))
+- All you need do is pick one or two values every day and look for opportunities to ‘sprinkle’ them into your activities. ([Location 2243](https://readwise.io/to_kindle?action=open&asin=B098TK7QYM&location=2243))
