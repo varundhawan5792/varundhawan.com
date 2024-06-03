@@ -25,3 +25,12 @@ excerpt: A collection of ideas I found interesting
 - [Encyclopedia of Icons](https://c82.net/iconography/)
 - [Essential UX patterns for dev tools](https://evilmartians.com/chronicles/keep-it-together-5-essential-design-patterns-for-dev-tool-uis)
 - [Hiring designer for a developer-focused product](https://evilmartians.com/chronicles/hiring-a-product-designer-1-hard-skill-and-3-soft-skills-to-look-for) 
+
+### May, 2024
+- [CSS Doodles](https://yuanchuan.dev/daily-sketch-4)
+- [Generating colors for design system](https://matthewstrom.com/writing/generating-color-palettes/)
+- [Hackerverse - a map of HN's posts](https://hn.wilsonl.in/)
+- [Jeff Bezos on how to write in the work environment](https://substack.com/@rubendominguez/note/c-57330475)
+- [Copying is the way design works](https://matthewstrom.com/writing/copying/)
+- [Visual design rules you can safely follow](https://anthonyhobday.com/sideprojects/saferules/)
+- 
