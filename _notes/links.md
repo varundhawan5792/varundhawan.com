@@ -33,4 +33,8 @@ excerpt: A collection of ideas I found interesting
 - [Jeff Bezos on how to write in the work environment](https://substack.com/@rubendominguez/note/c-57330475)
 - [Copying is the way design works](https://matthewstrom.com/writing/copying/)
 - [Visual design rules you can safely follow](https://anthonyhobday.com/sideprojects/saferules/)
-- 
+- [7 cathedrals of Saint Michael in a straight line](https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/)
+- [Teenage Engineering designed a museum exhibit at SFMOMA](https://arun.is/blog/art-of-noise/](https://arun.is/blog/art-of-noise/)
+- [Came across the personal blog of a cartographer designer](https://sashamaps.net/)
+- [Printable sundial](https://www.blocklayer.com/sundial-popeng)
+- [Draw an iceberg](https://joshdata.me/iceberger.html)
