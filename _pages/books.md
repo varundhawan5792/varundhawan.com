@@ -24,7 +24,6 @@ excerpt: Recommendation of books I have found helpful
 ## Want to read
 - [21 Lessons for the 21st Century](https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century)
 - [Essays on Love](https://www.goodreads.com/book/show/23427.Essays_in_Love)
-- [The Psychology of Money](https://www.amazon.in/gp/product/B08FHZ5L47)
 - [7 Habits of Highly Effective People](https://www.amazon.in/gp/product/B07WF972WK)
 - [Art of Thinking Clearly](https://www.amazon.in/gp/product/B00AJP267G)
 - [Finding Your Element: How to Discover Your Talents and Passions and Transform Your Life](https://www.amazon.in/gp/product/B00ADNP8RE)
@@ -37,7 +36,8 @@ excerpt: Recommendation of books I have found helpful
 - [Omnivore's Dilemma: The Search for a Perfect Meal](https://www.amazon.in/gp/product/B002TQKS14)
 - [The Creative Destruction of Medicine: How the Digital Revolution Will Create Better Health Care](https://www.amazon.in/gp/product/B06XCK65P2)
 - [Reinventing American Health Care: How the Affordable Care Act will Improve our Complex System](https://www.amazon.in/gp/product/B06XC7SZCJ)
-
+- [The Bhagawat Gita, Eknath Easwaran](https://www.amazon.in/gp/product/B079B89J3G/)
+- [Poor Charlie’s Almanack](https://www.amazon.in/gp/product/B0C5TCGPPS/)
 
 
 ## Books I've found helpful
@@ -68,9 +68,8 @@ excerpt: Recommendation of books I have found helpful
 - [The Book of Life: Daily Meditations – Jiddu Krishnamurti](https://www.goodreads.com/book/show/10813967-the-book-of-life)
 
 ### Health
-
+- [Everything you thought you knew about protein is wrong (Video)](https://youtu.be/DMwf_9wqWY0?)
 - [Bigger Leaner Stronger – Michael Matthews](https://www.goodreads.com/book/show/25049103-bigger-leaner-stronger)
-- [Glucode Revolution – Jessie Inchauspe](https://www.goodreads.com/en/book/show/58438618-glucose-revolution)
 - [The 12-Week Fitness Project – Rujuta Diwekar](https://www.goodreads.com/book/show/49854871-the-12-week-fitness-project)
 
 #### [Other books I have read](https://www.goodreads.com/user/show/75924345-varun-dhawan)
