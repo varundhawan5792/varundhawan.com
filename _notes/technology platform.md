@@ -11,7 +11,7 @@ Platform is a collection of parts common to all problems in the domain. Great te
 [Martin Eriksson](https://martineriksson.com/) says: 
 > "A good product manager must be experiences in at least one, passionate about all three, and conversant wth practitioners in all." 
 
-![Digital Platforms](Pasted image 20211129213310.png)
+![Digital Platforms](/notes/Pasted image 20211129213310.png)
   
   
 ### References

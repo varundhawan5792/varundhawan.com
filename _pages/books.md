@@ -36,11 +36,10 @@ excerpt: Recommendation of books I have found helpful
 - [Omnivore's Dilemma: The Search for a Perfect Meal](https://www.amazon.in/gp/product/B002TQKS14)
 - [The Creative Destruction of Medicine: How the Digital Revolution Will Create Better Health Care](https://www.amazon.in/gp/product/B06XCK65P2)
 - [Reinventing American Health Care: How the Affordable Care Act will Improve our Complex System](https://www.amazon.in/gp/product/B06XC7SZCJ)
-- [The Bhagawat Gita, Eknath Easwaran](https://www.amazon.in/gp/product/B079B89J3G/)
 - [Poor Charlie’s Almanack](https://www.amazon.in/gp/product/B0C5TCGPPS/)
 
 
-## Books I've found helpful
+## Books I've enjoyed
 
 ### Design
 
@@ -62,10 +61,15 @@ excerpt: Recommendation of books I have found helpful
 - [Courage to be Disliked – Ichiro Kishimi](https://www.goodreads.com/book/show/36752952-the-courage-to-be-disliked)
 - [Courage to be Happy – Ichiro Kishimi](https://www.goodreads.com/book/show/53104596-the-courage-to-be-happy)
 - [Happiness Hypothesis – Jonathan Haidt](https://www.goodreads.com/book/show/25752455-the-happiness-hypothesis)
-- [Meditation and it's Methods – Swami Vivekananda](https://www.goodreads.com/book/show/20423642-meditation-and-its-methods)
 - [How to Love – Thich Nhat Hanh](https://www.goodreads.com/book/show/28585303-how-to-love)
-- [My Gita – Devdutt Pattanaik](https://www.goodreads.com/book/show/27834914-my-gita)
 - [The Book of Life: Daily Meditations – Jiddu Krishnamurti](https://www.goodreads.com/book/show/10813967-the-book-of-life)
+
+### Spirituality
+
+- [Meditation and it's Methods – Swami Vivekananda](https://www.goodreads.com/book/show/20423642-meditation-and-its-methods)
+- [Bhagawad Gita, Lecture Podcast – Swami Sarvapriyananda](https://open.spotify.com/playlist/42nUcxS1kmTc0qmwsDhsWE?si=95ad47f81de74fb0)
+- [My Gita – Devdutt Pattanaik](https://www.goodreads.com/book/show/27834914-my-gita)
+
 
 ### Health
 - [Everything you thought you knew about protein is wrong (Video)](https://youtu.be/DMwf_9wqWY0?)

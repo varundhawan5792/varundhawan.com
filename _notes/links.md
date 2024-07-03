@@ -41,3 +41,7 @@ excerpt: A collection of ideas I found interesting
 - [Hydrant gallery](https://www.dayroselane.com/hydrants)
 - [Came across the personal blog of a cartographer designer](https://sashamaps.net/)
 - [Printable sundial](https://www.blocklayer.com/sundial-popeng)
+- [Right way to stretch for mobility](https://tylertringas.com/mobility/)
+- [Sheet music quiz](https://www.notequiz.app/)
+- [HackerNews Search](https://hackernews.demo.vectara.com/)
+

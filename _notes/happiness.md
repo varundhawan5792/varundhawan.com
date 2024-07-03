@@ -18,7 +18,7 @@ When conducting the separation of tasks, we need to first ask ourselves the foll
 
 The way the other person acts or feels is their task. 
 
-![Happiness is a system](System of Happiness.jpg)
+![Happiness is a system](/notes/System of Happiness.jpg)
 
 Self-acceptance and therefore seeing others as comrades reduces the need for recognition. 
 
