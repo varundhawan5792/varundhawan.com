@@ -45,3 +45,11 @@ excerpt: A collection of ideas I found interesting
 - [Sheet music quiz](https://www.notequiz.app/)
 - [HackerNews Search](https://hackernews.demo.vectara.com/)
 
+### July, 2024
+- [Denis Villeneuve, an artist filmmaker](https://kickasscanadians.ca/denis-villeneuve/)
+- [Surprising habits of original thinkers](https://www.youtube.com/watch?v=fxbCHn6gE3U)
+- [Difference between happiness and joy](https://www.nytimes.com/2019/05/07/opinion/happiness-joy-emotion.html)
+- [Tips for optimizing large design systems](https://www.youtube.com/watch?v=MJTCfSFLUGE)
+
+### August, 2024
+- [MIT Lecture on How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)
