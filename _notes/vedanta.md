@@ -1,6 +1,8 @@
 ---
 published: true
 title: What is Vedanta?
+excerpt: Indian philosophy focused on realizing the ultimate reality
+last_updated: 2024-10-02T02:02:48+05:30
 ---
 ## Shruti vs. Smriti
 
@@ -49,10 +51,10 @@ title: What is Vedanta?
 
 ### Schools of Vedānta
 
-Different schools of _Vedānta_ emerged based on the interpretations of *Brahma Sutras*:
-- **Adi Shankaracharya's** _Advaita Vedānta_ (non-dualism) in 8th century CE, where _Brahman_ is considered the only reality, and the world is ultimately an illusion (_Maya_).
-- **Ramanuja's** _Vishishtadvaita Vedānta_ (qualified non-dualism) in 11th century CE, where the world and individual souls are seen as real but dependent on _Brahman_.
-- **Madhvacharya's** _Dvaita Vedānta_ (dualism) in 13th century CE, where God (_Brahman_), individual souls, and the world are all distinct realities.
+Different schools of _Vedānta_ emerged based on different interpretations of the *Brahma Sutras*:
+- **Adi Shankaracharya's** _Advaita Vedānta_ (non-dualism) from 8th century CE, where _Brahman_ is considered the only reality, and the world is ultimately an illusion (_Maya_).
+- **Ramanuja's** _Vishishtadvaita Vedānta_ (qualified non-dualism) from 11th century CE, where the world and individual souls are seen as real but dependent on _Brahman_.
+- **Madhvacharya's** _Dvaita Vedānta_ (dualism) from 13th century CE, where God (_Brahman_), individual souls, and the world are all distinct realities.
 
 ## Scholarly Timeline of Composition
 
@@ -96,3 +98,13 @@ Different schools of _Vedānta_ emerged based on the interpretations of *Brahma 
 - **Early Upanishads**: 800 BCE – 500 BCE
 - **Later Upanishads**: 500 BCE – 200 BCE
 - **Brahma Sutras**: 200 BCE – 200 CE
+
+---
+## Basic structure of spiritual practice
+
+| Obstacles                                                               | Solution                              | Method                                             |
+| ----------------------------------------------------------------------- | ------------------------------------- | -------------------------------------------------- |
+| **Ignorance (Agyana)**<br>*Ignorance of your real nature as Brahman*    | Knowledge (Jnana)                     | Jnana Yoga <br>*(Hearing, Reasoning, Meditation)*  |
+| **Scattered mind (Vikshepa)**<br>*Inability to absorb the knowledge*    | Concentration (Ekagrata)              | Raja Yoga, Bhakti Yoga<br>*(Meditation, Devotion)* |
+| **Impure mind (Chitta Mala)**<br>*Impurities dues to past conditioning* | Purification of mind (Chitta Shuddhi) | Karma Yoga<br>*(Selfless action)*                  |
+
