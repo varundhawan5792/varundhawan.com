@@ -54,3 +54,6 @@ excerpt: A collection of ideas I found interesting
 ### August, 2024
 - [MIT Lecture on How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)
 - [Mahabharata by Peter Brook](https://mediaspace.msu.edu/channel/REL+250%3A+Religion+and+the+Arts/337190562)
+
+### November, 2024
+- [Indus Script Corpus](https://indusscript.net/)
