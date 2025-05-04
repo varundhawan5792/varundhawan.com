@@ -10,7 +10,6 @@
 ## Highlights
 - They all have a high degree of what has come to be known as emotional intelligence. ([Location 49](https://readwise.io/to_kindle?action=open&asin=B004G5ZJEC&location=49))
 - the components of emotional intelligence—self-awareness, self-regulation, motivation, empathy, and social skill—in ([Location 57](https://readwise.io/to_kindle?action=open&asin=B004G5ZJEC&location=57))
-## New highlights added April 18, 2024 at 10:58 PM
 - What made them all effective is that they followed the same eight practices: ([Location 359](https://readwise.io/to_kindle?action=open&asin=B004G5ZJEC&location=359))
 - The answer to the question “What needs to be done?” almost always contains more than one urgent task. But effective executives do not splinter themselves. They concentrate on one task if at all possible. ([Location 381](https://readwise.io/to_kindle?action=open&asin=B004G5ZJEC&location=381))
 - Management involves planning and budgeting. Leadership involves setting direction. • Management involves organizing and staffing. Leadership involves aligning people. • Management provides control and solves problems. Leadership provides motivation. ([Location 631](https://readwise.io/to_kindle?action=open&asin=B004G5ZJEC&location=631))

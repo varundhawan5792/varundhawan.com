@@ -31,7 +31,6 @@
 - speed, simplicity, ease of use, and clarity are our focus. Those are timeless desires. ([Location 566](https://readwise.io/to_kindle?action=open&asin=B003ELY7PG&location=566))
 - This approach just recognizes that the best way to get there is through iterations. Stop imagining what’s going to work. Find out for real. ([Location 624](https://readwise.io/to_kindle?action=open&asin=B003ELY7PG&location=624))
 - Problems are usually pretty simple. We just imagine that they require hard solutions. ([Location 675](https://readwise.io/to_kindle?action=open&asin=B003ELY7PG&location=675))
-## New highlights added April 18, 2024 at 10:58 PM
 - Culture is action, not words. ([Location 1430](https://readwise.io/to_kindle?action=open&asin=B003ELY7PG&location=1430))
 - The ability to change course is one of the big advantages of being small. Compared with larger competitors, you’re way more capable of making quick, sweeping changes. Big companies just can’t move that fast. ([Location 1441](https://readwise.io/to_kindle?action=open&asin=B003ELY7PG&location=1441))
 - Rockstar environments develop out of trust, autonomy, and responsibility. They’re a result of giving people the privacy, workspace, and tools they deserve. ([Location 1453](https://readwise.io/to_kindle?action=open&asin=B003ELY7PG&location=1453))

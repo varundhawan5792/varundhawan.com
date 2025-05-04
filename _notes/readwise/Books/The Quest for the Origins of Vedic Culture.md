@@ -9,5 +9,3 @@
 
 ## Highlights
 - The term Aryan was used to denote the undivided Indo-Europeans during most of the nineteenth century; for our purposes, the Indo-Aryans are primarily the Vedic- and pre-Vedic-speaking members of the family. ([Location 149](https://readwise.io/to_kindle?action=open&asin=B00UXLB1CC&location=149))
-
-

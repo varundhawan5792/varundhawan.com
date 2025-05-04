@@ -8,7 +8,7 @@
 - Category: #books
 
 ## Highlights
-- Filling the well involves the active pursuit of images to refresh our artistic reservoirs. Art is born in attention. Its midwife is detail. ([Location 759](https://readwise.io/to_kindle?action=open&asin=B083X758NX&location=759))
-- In filling the well, think magic. Think delight. Think fun. Do not think duty. Do not do what you should do—spiritual sit-ups like reading a dull but recommended critical text. Do what intrigues you, explore what interests you; think mystery, not mastery. ([Location 769](https://readwise.io/to_kindle?action=open&asin=B083X758NX&location=769))
-- A mystery can be very simple: if I drive this road, not my usual road, what will I see? ([Location 773](https://readwise.io/to_kindle?action=open&asin=B083X758NX&location=773))
-- Any regular, repetitive action primes the well. ([Location 781](https://readwise.io/to_kindle?action=open&asin=B083X758NX&location=781))
+- Filling the well involves the active pursuit of images to refresh our artistic reservoirs. Art is born in attention. Its midwife is detail. ([Location 625](https://readwise.io/to_kindle?action=open&asin=B083X758NX&location=625))
+- In filling the well, think magic. Think delight. Think fun. Do not think duty. Do not do what you should do—spiritual sit-ups like reading a dull but recommended critical text. Do what intrigues you, explore what interests you; think mystery, not mastery. ([Location 635](https://readwise.io/to_kindle?action=open&asin=B083X758NX&location=635))
+- A mystery can be very simple: if I drive this road, not my usual road, what will I see? ([Location 638](https://readwise.io/to_kindle?action=open&asin=B083X758NX&location=638))
+- Any regular, repetitive action primes the well. ([Location 647](https://readwise.io/to_kindle?action=open&asin=B083X758NX&location=647))

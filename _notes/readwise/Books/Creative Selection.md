@@ -14,6 +14,5 @@
 - going to relentlessly chase perfection, knowing full well we will not catch it, because perfection is not attainable. But we are going to relentlessly chase it because, in the process, we will catch ([Location 1347](https://readwise.io/to_kindle?action=open&asin=B07F18HYX3&location=1347))
 - if you do something and it turns out pretty good, then you should go do something else wonderful, not dwell on it for too long. Just figure out what’s next. ([Location 1621](https://readwise.io/to_kindle?action=open&asin=B07F18HYX3&location=1621))
 - Demos were an open forum for exchanging ideas about how an interaction might look or function better. ([Location 1734](https://readwise.io/to_kindle?action=open&asin=B07F18HYX3&location=1734))
-## New highlights added June 28, 2024 at 5:39 PM
 - Literally, we had to demonstrate our idea. We couldn’t get away with telling. We were required to show. ([Location 1930](https://readwise.io/to_kindle?action=open&asin=B07F18HYX3&location=1930))
 - We had to work like this, because the team didn’t accept anything unless it was concrete and specific, a demo showing what we meant. ([Location 1931](https://readwise.io/to_kindle?action=open&asin=B07F18HYX3&location=1931))
